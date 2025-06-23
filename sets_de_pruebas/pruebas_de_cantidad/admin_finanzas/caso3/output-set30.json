@@ -1,0 +1,310 @@
+[
+  {
+    "participant_id": "deadfa05-cb43-423d-9e47-5736059e06c1",
+    "score": 10,
+    "reasons": [
+      "No se evidencia educaci\u00f3n universitaria en Finanzas, Contabilidad, Econom\u00eda o campo relacionado.",
+      "Experiencia laboral limitada a tareas administrativas y de cobranza, sin roles de an\u00e1lisis financiero avanzado.",
+      "No se mencionan habilidades t\u00e9cnicas avanzadas como Excel avanzado, ERP SAP o BI.",
+      "No hay evidencia de liderazgo o supervisi\u00f3n de equipos."
+    ]
+  },
+  {
+    "participant_id": "9942f0bb-7f27-4bf4-896b-ecd5c42fd1bb",
+    "score": 40,
+    "reasons": [
+      "Posee t\u00edtulo universitario en Contador P\u00fablico, lo que cumple con el requisito de educaci\u00f3n.",
+      "Experiencia laboral principalmente en tareas contables y administrativas, sin evidencia clara de an\u00e1lisis financiero avanzado o modelado financiero.",
+      "Conocimientos t\u00e9cnicos en varios softwares contables y de gesti\u00f3n, pero no se menciona SAP ni herramientas BI.",
+      "No se evidencia experiencia liderando equipos ni proyectos financieros cr\u00edticos."
+    ]
+  },
+  {
+    "participant_id": "215ec12b-a335-406d-af66-1564104e02e2",
+    "score": 55,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n y Contador P\u00fablico, educaci\u00f3n adecuada para el puesto.",
+      "Experiencia en supervisi\u00f3n y ejecuci\u00f3n de operaciones financieras, armado y an\u00e1lisis de reportes e informes.",
+      "Conocimiento de SAP y Project Management, adem\u00e1s de Excel y herramientas de gesti\u00f3n.",
+      "No se evidencia experiencia espec\u00edfica en modelado financiero avanzado ni liderazgo de equipos de analistas.",
+      "Experiencia en banca y tesorer\u00eda, pero no se detalla trabajo con presupuestos o planificaci\u00f3n estrat\u00e9gica."
+    ]
+  },
+  {
+    "participant_id": "a4c6da7d-55d4-4ab7-bc1f-957900db8d45",
+    "score": 20,
+    "reasons": [
+      "Estudiante de T\u00e9cnico Superior en Administraci\u00f3n, no cumple con el requisito de educaci\u00f3n universitaria completa.",
+      "Experiencia laboral orientada a cobranzas y atenci\u00f3n al cliente, sin evidencia de an\u00e1lisis financiero avanzado o modelado financiero.",
+      "Conocimientos en SAP y varios sistemas, pero no se menciona experiencia en reportes financieros o planificaci\u00f3n presupuestaria.",
+      "No se evidencia liderazgo ni supervisi\u00f3n de equipos."
+    ]
+  },
+  {
+    "participant_id": "27216fc3-4c7f-4b32-8e3b-980b3b16d849",
+    "score": 80,
+    "reasons": [
+      "Profesional con t\u00edtulo de Contador P\u00fablico y amplia experiencia en administraci\u00f3n, finanzas, contabilidad y gesti\u00f3n operativa.",
+      "Experiencia en gerencia de administraci\u00f3n y contabilidad, implementaci\u00f3n de mecanismos de control, armado de presupuestos y reportes.",
+      "Conocimiento de SAP, Tango, Odoo y Quickbooks, adem\u00e1s de herramientas de comunicaci\u00f3n y gesti\u00f3n.",
+      "Experiencia en liderazgo y trabajo en equipo, supervisi\u00f3n de \u00e1reas y coordinaci\u00f3n de actividades.",
+      "No se menciona expl\u00edcitamente modelado financiero avanzado ni uso de BI, pero la experiencia en reportes y presupuestos es s\u00f3lida."
+    ]
+  },
+  {
+    "participant_id": "f86753fb-3b0a-467c-b3ac-868f39203940",
+    "score": 65,
+    "reasons": [
+      "Licenciado en Econom\u00eda con experiencia en an\u00e1lisis financiero, interpretaci\u00f3n de estados financieros y actualizaci\u00f3n de bases de datos.",
+      "Experiencia en an\u00e1lisis y seguimiento de inversiones, conciliaciones bancarias y confecci\u00f3n de reportes financieros.",
+      "Conocimientos en Excel, Power BI y otros programas estad\u00edsticos, adem\u00e1s de ingl\u00e9s avanzado.",
+      "Experiencia en roles de asistente y analista, pero limitada experiencia en liderazgo y modelado financiero avanzado.",
+      "No se menciona experiencia directa en planificaci\u00f3n y presupuestaci\u00f3n estrat\u00e9gica."
+    ]
+  },
+  {
+    "participant_id": "28d892ba-3a2c-4193-8daf-0eba50ea29e6",
+    "score": 15,
+    "reasons": [
+      "Perfil de estudiante de econom\u00eda con experiencia en tareas administrativas y de atenci\u00f3n al cliente.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona liderazgo ni manejo de herramientas avanzadas como SAP o BI."
+    ]
+  },
+  {
+    "participant_id": "44668772-3f88-4958-a8ff-4e998e31ad06",
+    "score": 75,
+    "reasons": [
+      "Contador P\u00fablico con experiencia en administraci\u00f3n, finanzas, cobros y reportes financieros.",
+      "Experiencia en an\u00e1lisis y gesti\u00f3n de cuentas a cobrar, conciliaciones y uso de SAP.",
+      "Experiencia en roles de analista y liderazgo de equipos en \u00e1reas financieras.",
+      "No se menciona espec\u00edficamente modelado financiero avanzado ni planificaci\u00f3n estrat\u00e9gica a largo plazo.",
+      "Conocimiento en herramientas de an\u00e1lisis financiero y manejo de datos."
+    ]
+  },
+  {
+    "participant_id": "bca858b8-0825-49c0-8759-670c61efc177",
+    "score": 10,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "75cd1a36-10b2-4b0a-841f-c2a4a0dbf681",
+    "score": 5,
+    "reasons": [
+      "Perfil de estudiante sin experiencia laboral relevante en finanzas o an\u00e1lisis financiero.",
+      "No cumple con los requisitos de educaci\u00f3n ni experiencia.",
+      "No se menciona manejo de herramientas t\u00e9cnicas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "ce807f90-aab1-4a42-8376-eb45553131a0",
+    "score": 85,
+    "reasons": [
+      "Profesional con t\u00edtulo de Contador P\u00fablico y amplia experiencia en administraci\u00f3n y finanzas.",
+      "Experiencia en gerencia operativa, control presupuestario, cobros y reportes financieros.",
+      "Conocimiento de SAP, Tango, Odoo y Quickbooks, adem\u00e1s de herramientas de comunicaci\u00f3n y gesti\u00f3n.",
+      "Experiencia en liderazgo, supervisi\u00f3n y coordinaci\u00f3n de equipos.",
+      "No se menciona espec\u00edficamente modelado financiero avanzado, pero la experiencia en planificaci\u00f3n y reportes es s\u00f3lida."
+    ]
+  },
+  {
+    "participant_id": "8226fc97-9ce0-4acd-ba7f-1d6faa4fb28c",
+    "score": 60,
+    "reasons": [
+      "Licenciado en Econom\u00eda con experiencia en an\u00e1lisis financiero, gesti\u00f3n de inversiones y reportes.",
+      "Conocimientos en Excel avanzado, PowerPoint, R, Stata y Python.",
+      "Experiencia en an\u00e1lisis de datos econ\u00f3micos y financieros, pero limitada experiencia en liderazgo y modelado financiero avanzado.",
+      "No se menciona experiencia directa en planificaci\u00f3n y presupuestaci\u00f3n estrat\u00e9gica."
+    ]
+  },
+  {
+    "participant_id": "dff7d6c8-6ad9-4731-8d7f-e2bdbb351913",
+    "score": 10,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "a2dd8352-f7d6-4de2-baf5-005609615e0a",
+    "score": 70,
+    "reasons": [
+      "Licenciado en Econom\u00eda con experiencia en an\u00e1lisis financiero y gesti\u00f3n de mercado de capitales.",
+      "Experiencia en an\u00e1lisis e interpretaci\u00f3n de estados financieros, actualizaci\u00f3n de bases de datos y reportes consolidados.",
+      "Conocimientos en Excel, PowerPoint, Office y herramientas estad\u00edsticas.",
+      "No se menciona experiencia expl\u00edcita en modelado financiero avanzado ni planificaci\u00f3n presupuestaria.",
+      "No se evidencia experiencia clara en liderazgo de equipos."
+    ]
+  },
+  {
+    "participant_id": "487a823a-9237-4bdd-9396-ebb030443797",
+    "score": 15,
+    "reasons": [
+      "Perfil de estudiante con experiencia en trabajos de atenci\u00f3n al cliente y ventas.",
+      "No cumple con los requisitos de educaci\u00f3n ni experiencia en an\u00e1lisis financiero o roles avanzados.",
+      "No se menciona manejo de herramientas t\u00e9cnicas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "878af505-e63a-4217-91bc-6ed1c00e5487",
+    "score": 10,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "cebaf54f-c0e3-4196-9593-9793b26d66c3",
+    "score": 20,
+    "reasons": [
+      "Perfil administrativo con experiencia en tareas de caja, atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "bbfd3a09-cc1f-4cbe-bd71-f1154c30d9bd",
+    "score": 75,
+    "reasons": [
+      "Contador P\u00fablico con experiencia en administraci\u00f3n, finanzas, cobros y reportes financieros.",
+      "Experiencia en an\u00e1lisis y gesti\u00f3n de cuentas a cobrar, conciliaciones y uso de SAP.",
+      "Experiencia en roles de analista y liderazgo de equipos en \u00e1reas financieras.",
+      "No se menciona espec\u00edficamente modelado financiero avanzado ni planificaci\u00f3n estrat\u00e9gica a largo plazo.",
+      "Conocimiento en herramientas de an\u00e1lisis financiero y manejo de datos."
+    ]
+  },
+  {
+    "participant_id": "7ad5bcfc-774c-4d31-a3bd-5415e1da2355",
+    "score": 15,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "55363c79-9e0a-4e39-b985-e42f445db8ab",
+    "score": 85,
+    "reasons": [
+      "Contador P\u00fablico con amplia experiencia en an\u00e1lisis financiero, planificaci\u00f3n y control.",
+      "Experiencia en planificaci\u00f3n y control financiero, elaboraci\u00f3n de reportes mensuales, trimestrales y anuales.",
+      "Conocimiento avanzado en Excel, SAP y herramientas de BI como Tableau.",
+      "Experiencia en liderazgo y supervisi\u00f3n de equipos, as\u00ed como en proyectos financieros cr\u00edticos.",
+      "Cumple con los requisitos de educaci\u00f3n, experiencia y habilidades t\u00e9cnicas."
+    ]
+  },
+  {
+    "participant_id": "a0e70c01-514b-4e6b-b285-6f0446efcb6e",
+    "score": 10,
+    "reasons": [
+      "Perfil administrativo con experiencia en tareas de carga y descarga, facturaci\u00f3n y RRHH.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "2516d147-c602-485c-b5da-a3c17f9b4d96",
+    "score": 10,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "b8530fa5-7655-4ee0-b227-1b01ac4ee4e2",
+    "score": 75,
+    "reasons": [
+      "Ingeniera Petroqu\u00edmica con experiencia en an\u00e1lisis financiero y reportes.",
+      "Experiencia en an\u00e1lisis y registro de facturas, gesti\u00f3n de siniestros y control presupuestario.",
+      "Conocimiento en Netsuite, Hap, Equal, Excel avanzado y SAP.",
+      "No se menciona experiencia expl\u00edcita en modelado financiero avanzado ni liderazgo de equipos.",
+      "Cumple parcialmente con los requisitos t\u00e9cnicos y experiencia."
+    ]
+  },
+  {
+    "participant_id": "f4fc50d4-4d3b-4931-a4f2-f11666835c3f",
+    "score": 15,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "a8b1e0ae-88b0-4bcd-944e-2d0f74b04b53",
+    "score": 20,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "2ab4c85c-7ee9-4832-b360-2e5bd830b122",
+    "score": 30,
+    "reasons": [
+      "Estudiante con experiencia en administraci\u00f3n y compras, sin t\u00edtulo universitario completo.",
+      "Conocimientos en Excel avanzado y Power BI, pero experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No se evidencia experiencia en liderazgo ni en planificaci\u00f3n presupuestaria.",
+      "No cumple con el requisito m\u00ednimo de a\u00f1os de experiencia en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "d7309495-da34-4535-8b42-3f94801c92b7",
+    "score": 10,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y gesti\u00f3n documental.",
+      "No cumple con el requisito de educaci\u00f3n universitaria en finanzas, econom\u00eda o contabilidad.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona manejo de herramientas t\u00e9cnicas avanzadas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "1e8fb417-14ad-47dd-994f-67b8ea519039",
+    "score": 15,
+    "reasons": [
+      "Perfil de estudiante con experiencia en atenci\u00f3n al cliente y ventas.",
+      "No cumple con los requisitos de educaci\u00f3n ni experiencia en an\u00e1lisis financiero o roles avanzados.",
+      "No se menciona manejo de herramientas t\u00e9cnicas ni liderazgo."
+    ]
+  },
+  {
+    "participant_id": "ecaae9d6-d2bf-4360-bd22-8e2d6dd57049",
+    "score": 85,
+    "reasons": [
+      "Profesional con MBA y m\u00e1s de 10 a\u00f1os de experiencia en planificaci\u00f3n financiera y control.",
+      "Experiencia en planificaci\u00f3n y control financiero, elaboraci\u00f3n de reportes mensuales, trimestrales y anuales.",
+      "Conocimiento avanzado en Excel, SAP, Hyperion y herramientas de BI.",
+      "Experiencia en liderazgo, supervisi\u00f3n y coordinaci\u00f3n de equipos.",
+      "Cumple con los requisitos de educaci\u00f3n, experiencia y habilidades t\u00e9cnicas."
+    ]
+  },
+  {
+    "participant_id": "5bad84b5-865d-4486-895f-17d57fee6831",
+    "score": 80,
+    "reasons": [
+      "Licenciado en Econom\u00eda con Maestr\u00eda en Finanzas en curso y experiencia en an\u00e1lisis financiero y gesti\u00f3n de carteras.",
+      "Experiencia en armado y actualizaci\u00f3n de indicadores, an\u00e1lisis de rentabilidad y costos, y uso avanzado de Excel y Power BI.",
+      "Conocimientos en SAP y modelado financiero b\u00e1sico.",
+      "No se evidencia experiencia clara en liderazgo de equipos ni en reportes para alta direcci\u00f3n.",
+      "Cumple con la mayor\u00eda de los requisitos t\u00e9cnicos y de experiencia."
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "participant_id": "43327fa9-4979-4bb7-acdc-4d99013c944f",
+    "score": 30,
+    "reasons": [
+      "Experiencia laboral limitada a an\u00e1lisis y conciliaci\u00f3n de cuentas contables, cuentas a cobrar y control de importaciones, no evidencia liderazgo ni supervisi\u00f3n de equipos.",
+      "Formaci\u00f3n acad\u00e9mica t\u00e9cnica universitaria en administraci\u00f3n, no licenciatura ni maestr\u00eda en finanzas, contabilidad o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos limitados a JD Edwards y SAP ERP, sin menci\u00f3n de Excel avanzado ni sistemas BI como Tableau o Power BI.",
+      "No se evidencia experiencia en modelado financiero avanzado, planificaci\u00f3n estrat\u00e9gica ni reportes financieros para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas operativas y administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "e78182c6-e104-4565-962d-b260b921e4b1",
+    "score": 10,
+    "reasons": [
+      "Estudiante sin experiencia laboral relevante en finanzas o an\u00e1lisis financiero.",
+      "Perfil orientado a \u00e1reas comerciales y marketing, no a finanzas o administraci\u00f3n.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda."
+    ]
+  },
+  {
+    "participant_id": "87a0a3a2-0fcc-4ea5-89e2-5679a30977f6",
+    "score": 20,
+    "reasons": [
+      "Estudiante con experiencia laboral en roles no relacionados directamente con an\u00e1lisis financiero senior.",
+      "No evidencia experiencia en liderazgo ni supervisi\u00f3n de equipos.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda.",
+      "No se mencionan conocimientos t\u00e9cnicos avanzados ni manejo de herramientas BI.",
+      "Perfil orientado a atenci\u00f3n al cliente y ventas, no a an\u00e1lisis financiero."
+    ]
+  },
+  {
+    "participant_id": "af0608dd-ecda-4c30-857e-ba9a3784b92b",
+    "score": 15,
+    "reasons": [
+      "Estudiante universitario sin experiencia laboral relevante en an\u00e1lisis financiero senior.",
+      "Experiencia laboral en roles de atenci\u00f3n al cliente y ventas, no en finanzas o an\u00e1lisis financiero.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda."
+    ]
+  },
+  {
+    "participant_id": "797cb472-43b3-41fa-9af0-090bddc8f1ac",
+    "score": 25,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y contables, pero sin evidencia clara de an\u00e1lisis financiero avanzado o liderazgo.",
+      "Formaci\u00f3n acad\u00e9mica en contabilidad p\u00fablica, pero sin maestr\u00eda ni especializaci\u00f3n en finanzas.",
+      "Conocimientos t\u00e9cnicos en Microsoft Office, con Excel avanzado, pero sin menci\u00f3n de SAP ERP o BI.",
+      "No se evidencia experiencia en modelado financiero, planificaci\u00f3n estrat\u00e9gica ni reportes para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas contables y administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "e737134a-1222-4e4a-ad52-486ba0130dd5",
+    "score": 70,
+    "reasons": [
+      "Cumple con la formaci\u00f3n acad\u00e9mica requerida: Licenciatura en Administraci\u00f3n con cursos en Excel avanzado, SAP y Tableau.",
+      "Experiencia laboral relevante en cuentas a pagar, an\u00e1lisis de datos y manejo de herramientas financieras y SAP.",
+      "Demuestra habilidades en an\u00e1lisis econ\u00f3mico, trabajo en equipo y pensamiento cr\u00edtico.",
+      "Conocimientos t\u00e9cnicos adecuados, incluyendo Excel avanzado y SAP, adem\u00e1s de certificaciones en herramientas BI.",
+      "No se evidencia liderazgo directo ni supervisi\u00f3n de equipos, lo que limita la puntuaci\u00f3n m\u00e1xima."
+    ]
+  },
+  {
+    "participant_id": "26e4835a-192b-4b79-a6da-d4c872da1b57",
+    "score": 60,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en Licenciatura en Econom\u00eda con maestr\u00eda en curso en Finanzas.",
+      "Experiencia laboral en an\u00e1lisis de datos financieros, gesti\u00f3n de carteras y reportes financieros.",
+      "Conocimientos t\u00e9cnicos en Excel avanzado, SAP y herramientas BI como Tableau.",
+      "Perfil anal\u00edtico con experiencia en an\u00e1lisis financiero y reportes, aunque no se menciona liderazgo o supervisi\u00f3n.",
+      "Cumple con la mayor\u00eda de los requisitos t\u00e9cnicos y de experiencia, pero falta evidencia de gesti\u00f3n de equipos."
+    ]
+  },
+  {
+    "participant_id": "b7151cd0-b80c-413b-a348-2b3df144da48",
+    "score": 75,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con experiencia en gesti\u00f3n operativa, contabilidad y finanzas.",
+      "Amplia experiencia laboral en roles administrativos y financieros, incluyendo elaboraci\u00f3n de presupuestos y reportes.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas de BI.",
+      "Experiencia en liderazgo y trabajo en equipo, aunque no se detalla supervisi\u00f3n directa de analistas.",
+      "Perfil s\u00f3lido para el puesto, con buena combinaci\u00f3n de formaci\u00f3n, experiencia y habilidades t\u00e9cnicas."
+    ]
+  },
+  {
+    "participant_id": "96934c2f-7408-49c3-8c32-034b4c3c0c85",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de an\u00e1lisis contable, pero con poca evidencia de an\u00e1lisis financiero avanzado.",
+      "Formaci\u00f3n acad\u00e9mica t\u00e9cnica en administraci\u00f3n, sin licenciatura ni maestr\u00eda en finanzas o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "No se evidencia experiencia en liderazgo ni supervisi\u00f3n de equipos.",
+      "Perfil m\u00e1s orientado a tareas administrativas y contables que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "5431b481-4790-4f20-ba53-5e500ace159f",
+    "score": 80,
+    "reasons": [
+      "Licenciatura en Econom\u00eda con maestr\u00eda en Finanzas en curso y certificaciones CFA.",
+      "Experiencia laboral en an\u00e1lisis financiero, gesti\u00f3n de carteras y reportes financieros detallados.",
+      "Conocimientos t\u00e9cnicos avanzados en Excel, SAP y herramientas BI.",
+      "Perfil anal\u00edtico con experiencia en modelado financiero, planificaci\u00f3n y reportes para alta direcci\u00f3n.",
+      "No se evidencia experiencia directa en supervisi\u00f3n de equipos, lo que limita la puntuaci\u00f3n m\u00e1xima."
+    ]
+  },
+  {
+    "participant_id": "86c5171f-977e-46bd-a9a6-b1aa26dd13ce",
+    "score": 35,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de an\u00e1lisis financiero avanzado.",
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n, sin licenciatura ni maestr\u00eda en finanzas o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "No se evidencia experiencia en liderazgo ni supervisi\u00f3n de equipos.",
+      "Perfil m\u00e1s orientado a tareas administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "d2963302-1992-4e34-9c37-52964d508c4d",
+    "score": 50,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n con experiencia en an\u00e1lisis y conciliaci\u00f3n de cuentas.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de liderazgo o supervisi\u00f3n.",
+      "Perfil con habilidades anal\u00edticas, pero con experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No cumple completamente con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "361f29ed-3619-4cf8-af26-9308fba7d644",
+    "score": 20,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de atenci\u00f3n al cliente, sin evidencia de an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil orientado a tareas administrativas y atenci\u00f3n al cliente, no a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "0894cf18-2054-4a54-a00a-676b05b1f714",
+    "score": 10,
+    "reasons": [
+      "Perfil orientado a roles administrativos y de atenci\u00f3n al cliente, sin experiencia en an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil no adecuado para el puesto de Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "783424d2-2afa-4d12-bb70-db0323092c39",
+    "score": 85,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con amplia experiencia en gesti\u00f3n y contabilidad.",
+      "Experiencia laboral en roles de gerencia operativa, administraci\u00f3n y contabilidad con liderazgo.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas BI.",
+      "Experiencia en elaboraci\u00f3n de presupuestos, an\u00e1lisis financiero y reportes para alta direcci\u00f3n.",
+      "Perfil s\u00f3lido que cumple con la mayor\u00eda de los requisitos del puesto, incluyendo habilidades interpersonales y de comunicaci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "4c756cde-4e0a-4a7a-8ab3-be64e0266571",
+    "score": 15,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de atenci\u00f3n al cliente, sin evidencia de an\u00e1lisis financiero avanzado.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil orientado a tareas administrativas y atenci\u00f3n al cliente, no a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "a064e9b1-7b68-4f90-b61a-724e5c3d3f26",
+    "score": 50,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n con experiencia en an\u00e1lisis y gesti\u00f3n financiera.",
+      "Conocimientos t\u00e9cnicos en Excel avanzado y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de liderazgo o supervisi\u00f3n.",
+      "Perfil con habilidades anal\u00edticas, pero con experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No cumple completamente con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "4acd3888-0162-4f2a-b9b6-bba7eaa232d7",
+    "score": 65,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con experiencia en gesti\u00f3n operativa, contabilidad y finanzas.",
+      "Experiencia laboral en roles administrativos y financieros, incluyendo elaboraci\u00f3n de presupuestos y reportes.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas BI.",
+      "Perfil con experiencia en an\u00e1lisis financiero y trabajo en equipo, aunque no se detalla supervisi\u00f3n directa de analistas.",
+      "Cumple con la mayor\u00eda de los requisitos t\u00e9cnicos y de experiencia, pero falta evidencia de liderazgo."
+    ]
+  },
+  {
+    "participant_id": "def41545-9693-425a-a374-f0163094d607",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de an\u00e1lisis financiero avanzado.",
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n, sin licenciatura ni maestr\u00eda en finanzas o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "No se evidencia experiencia en liderazgo ni supervisi\u00f3n de equipos.",
+      "Perfil m\u00e1s orientado a tareas administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "649c0833-a778-4c4a-8cdd-4210f8138959",
+    "score": 55,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n con experiencia en an\u00e1lisis y conciliaci\u00f3n de cuentas.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de liderazgo o supervisi\u00f3n.",
+      "Perfil con habilidades anal\u00edticas, pero con experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No cumple completamente con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "95bdfdc6-3be1-4dae-b843-01a275de9d9a",
+    "score": 20,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de atenci\u00f3n al cliente, sin evidencia de an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil orientado a tareas administrativas y atenci\u00f3n al cliente, no a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "af713fe3-1f37-4923-b866-0ed8a3fc005f",
+    "score": 75,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con amplia experiencia en gesti\u00f3n y contabilidad.",
+      "Experiencia laboral en roles de gerencia operativa, administraci\u00f3n y contabilidad con liderazgo.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas BI.",
+      "Experiencia en elaboraci\u00f3n de presupuestos, an\u00e1lisis financiero y reportes para alta direcci\u00f3n.",
+      "Perfil s\u00f3lido que cumple con la mayor\u00eda de los requisitos del puesto, incluyendo habilidades interpersonales y de comunicaci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "68650e9d-0e00-4a13-abb4-6eaaef2c3ef3",
+    "score": 30,
+    "reasons": [
+      "Experiencia laboral limitada a an\u00e1lisis y conciliaci\u00f3n de cuentas contables, cuentas a cobrar y control de importaciones, no evidencia liderazgo ni supervisi\u00f3n de equipos.",
+      "Formaci\u00f3n acad\u00e9mica t\u00e9cnica universitaria en administraci\u00f3n, no licenciatura ni maestr\u00eda en finanzas, contabilidad o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos limitados a JD Edwards y SAP ERP, sin menci\u00f3n de Excel avanzado ni sistemas BI como Tableau o Power BI.",
+      "No se evidencia experiencia en modelado financiero avanzado, planificaci\u00f3n estrat\u00e9gica ni reportes financieros para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas operativas y administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "925130ef-1243-43ec-93ba-0ade433ba28f",
+    "score": 10,
+    "reasons": [
+      "Estudiante sin experiencia laboral relevante en finanzas o an\u00e1lisis financiero.",
+      "Perfil orientado a \u00e1reas comerciales y marketing, no a finanzas o administraci\u00f3n.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda."
+    ]
+  },
+  {
+    "participant_id": "bdfcd866-9c4f-412d-8b03-0601595442d1",
+    "score": 20,
+    "reasons": [
+      "Estudiante con experiencia laboral en roles no relacionados directamente con an\u00e1lisis financiero senior.",
+      "No evidencia experiencia en liderazgo ni supervisi\u00f3n.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda.",
+      "No se mencionan conocimientos t\u00e9cnicos avanzados ni manejo de herramientas BI.",
+      "Perfil orientado a atenci\u00f3n al cliente y ventas, no a an\u00e1lisis financiero."
+    ]
+  },
+  {
+    "participant_id": "ef90af49-91d7-4aa9-9539-d18e74dd04cb",
+    "score": 15,
+    "reasons": [
+      "Estudiante universitario sin experiencia laboral relevante en an\u00e1lisis financiero senior.",
+      "Experiencia laboral en roles de atenci\u00f3n al cliente y ventas, no en finanzas o an\u00e1lisis financiero.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda."
+    ]
+  },
+  {
+    "participant_id": "d5ae3057-eddb-4c4d-864f-a58fcfb27041",
+    "score": 25,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y contables, pero sin evidencia clara de an\u00e1lisis financiero avanzado o liderazgo.",
+      "Formaci\u00f3n acad\u00e9mica en contabilidad p\u00fablica, pero sin maestr\u00eda ni especializaci\u00f3n en finanzas.",
+      "Conocimientos t\u00e9cnicos en Microsoft Office, con Excel avanzado, pero sin menci\u00f3n de SAP ERP o BI.",
+      "No se evidencia experiencia en modelado financiero, planificaci\u00f3n estrat\u00e9gica ni reportes para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas contables y administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "e4a5064b-0419-41ad-af5e-201034724260",
+    "score": 70,
+    "reasons": [
+      "Cumple con la formaci\u00f3n acad\u00e9mica requerida: Licenciatura en Administraci\u00f3n con cursos en Excel avanzado, SAP y Tableau.",
+      "Experiencia laboral relevante en cuentas a pagar, an\u00e1lisis de datos y manejo de herramientas financieras y SAP.",
+      "Demuestra habilidades en an\u00e1lisis econ\u00f3mico, trabajo en equipo y pensamiento cr\u00edtico.",
+      "Conocimientos t\u00e9cnicos adecuados, incluyendo Excel avanzado y SAP, adem\u00e1s de certificaciones en herramientas BI.",
+      "No se evidencia liderazgo directo ni supervisi\u00f3n de equipos, lo que limita la puntuaci\u00f3n m\u00e1xima."
+    ]
+  },
+  {
+    "participant_id": "df47adea-a7c0-4000-a981-065d20960522",
+    "score": 60,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en Licenciatura en Econom\u00eda con maestr\u00eda en curso en Finanzas.",
+      "Experiencia laboral en an\u00e1lisis de datos financieros, gesti\u00f3n de carteras y reportes financieros.",
+      "Conocimientos t\u00e9cnicos en Excel avanzado, SAP y herramientas BI como Tableau.",
+      "Perfil anal\u00edtico con experiencia en an\u00e1lisis financiero y reportes, aunque no se menciona liderazgo o supervisi\u00f3n.",
+      "Cumple con la mayor\u00eda de los requisitos t\u00e9cnicos y de experiencia, pero falta evidencia de gesti\u00f3n de equipos."
+    ]
+  },
+  {
+    "participant_id": "385967be-1b43-45e3-81c8-3db9eb4b4051",
+    "score": 75,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con experiencia en gesti\u00f3n operativa, contabilidad y finanzas.",
+      "Amplia experiencia laboral en roles administrativos y financieros, incluyendo elaboraci\u00f3n de presupuestos y reportes.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas de BI.",
+      "Experiencia en liderazgo y trabajo en equipo, aunque no se detalla supervisi\u00f3n directa de analistas.",
+      "Perfil s\u00f3lido para el puesto, con buena combinaci\u00f3n de formaci\u00f3n, experiencia y habilidades t\u00e9cnicas."
+    ]
+  },
+  {
+    "participant_id": "df3fb62c-ea0d-4c87-a7ef-00e4269db817",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de an\u00e1lisis contable, pero con poca evidencia de an\u00e1lisis financiero avanzado.",
+      "Formaci\u00f3n acad\u00e9mica t\u00e9cnica en administraci\u00f3n, sin licenciatura ni maestr\u00eda en finanzas o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "No se evidencia experiencia en liderazgo ni supervisi\u00f3n de equipos.",
+      "Perfil m\u00e1s orientado a tareas administrativas y contables que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "9af26611-9a22-499d-b3d6-0e55ca34d30b",
+    "score": 55,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n con experiencia en an\u00e1lisis y conciliaci\u00f3n de cuentas.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de liderazgo o supervisi\u00f3n.",
+      "Perfil con habilidades anal\u00edticas, pero con experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No cumple completamente con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "511f3beb-52cd-40da-8850-3f38635114ee",
+    "score": 20,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de atenci\u00f3n al cliente, sin evidencia de an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil orientado a tareas administrativas y atenci\u00f3n al cliente, no a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "5991f40f-1df5-4b75-8d43-52172dae3e49",
+    "score": 10,
+    "reasons": [
+      "Perfil orientado a roles administrativos y de atenci\u00f3n al cliente, sin experiencia en an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil no adecuado para el puesto de Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "00649f8c-4511-4b12-919b-9a71cc188be0",
+    "score": 85,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con amplia experiencia en gesti\u00f3n y contabilidad.",
+      "Experiencia laboral en roles de gerencia operativa, administraci\u00f3n y contabilidad con liderazgo.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas BI.",
+      "Experiencia en elaboraci\u00f3n de presupuestos, an\u00e1lisis financiero y reportes para alta direcci\u00f3n.",
+      "Perfil s\u00f3lido que cumple con la mayor\u00eda de los requisitos del puesto, incluyendo habilidades interpersonales y de comunicaci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "873f99a8-35e8-4691-a5dd-1c7c4dea4992",
+    "score": 30,
+    "reasons": [
+      "Experiencia laboral limitada a an\u00e1lisis y conciliaci\u00f3n de cuentas contables, cuentas a cobrar y control de importaciones, no evidencia liderazgo ni supervisi\u00f3n de equipos.",
+      "Formaci\u00f3n acad\u00e9mica t\u00e9cnica universitaria en administraci\u00f3n, no licenciatura ni maestr\u00eda en finanzas, contabilidad o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos limitados a JD Edwards y SAP ERP, sin menci\u00f3n de Excel avanzado ni sistemas BI como Tableau o Power BI.",
+      "No se evidencia experiencia en modelado financiero avanzado, planificaci\u00f3n estrat\u00e9gica ni reportes financieros para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas operativas y administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "ef312b10-8e1a-4a28-91f7-1d2c4108fb4a",
+    "score": 10,
+    "reasons": [
+      "Estudiante sin experiencia laboral relevante en finanzas o an\u00e1lisis financiero.",
+      "Perfil orientado a \u00e1reas comerciales y marketing, no a finanzas o administraci\u00f3n.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda."
+    ]
+  },
+  {
+    "participant_id": "7b4781b5-652c-474b-bfd2-b22cfddc8640",
+    "score": 20,
+    "reasons": [
+      "Estudiante con experiencia laboral en roles no relacionados directamente con an\u00e1lisis financiero senior.",
+      "No evidencia experiencia en liderazgo ni supervisi\u00f3n.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda.",
+      "No se mencionan conocimientos t\u00e9cnicos avanzados ni manejo de herramientas BI.",
+      "Perfil orientado a atenci\u00f3n al cliente y ventas, no a an\u00e1lisis financiero."
+    ]
+  },
+  {
+    "participant_id": "1733ec25-6382-4449-863f-c1919bb8161c",
+    "score": 75,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con amplia experiencia en gesti\u00f3n y contabilidad.",
+      "Experiencia laboral en roles de gerencia operativa, administraci\u00f3n y contabilidad con liderazgo.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas BI.",
+      "Experiencia en elaboraci\u00f3n de presupuestos, an\u00e1lisis financiero y reportes para alta direcci\u00f3n.",
+      "Perfil s\u00f3lido que cumple con la mayor\u00eda de los requisitos del puesto, incluyendo habilidades interpersonales y de comunicaci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "b2e41627-b93e-4223-9335-8811e1e2a87f",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y contables, pero sin evidencia clara de an\u00e1lisis financiero avanzado o liderazgo.",
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n, sin licenciatura ni maestr\u00eda en finanzas.",
+      "Conocimientos t\u00e9cnicos en Microsoft Office, con Excel avanzado, pero sin menci\u00f3n de SAP ERP o BI.",
+      "No se evidencia experiencia en modelado financiero, planificaci\u00f3n estrat\u00e9gica ni reportes para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "4c973f93-2ecb-4e2f-b8d8-6e96a25fce33",
+    "score": 55,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n con experiencia en an\u00e1lisis y conciliaci\u00f3n de cuentas.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de liderazgo o supervisi\u00f3n.",
+      "Perfil con habilidades anal\u00edticas, pero con experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No cumple completamente con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "7232b287-ae44-47bb-9b29-b1425171240f",
+    "score": 20,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y de atenci\u00f3n al cliente, sin evidencia de an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil orientado a tareas administrativas y atenci\u00f3n al cliente, no a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "32ce91fb-9e6e-480e-a11b-e1027094f68c",
+    "score": 10,
+    "reasons": [
+      "Perfil orientado a roles administrativos y de atenci\u00f3n al cliente, sin experiencia en an\u00e1lisis financiero.",
+      "Formaci\u00f3n acad\u00e9mica no relacionada con finanzas, contabilidad o econom\u00eda.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Perfil no adecuado para el puesto de Analista de Finanzas Senior."
+    ]
+  },
+  {
+    "participant_id": "a66559af-e8b3-44e5-b71d-6b338fc1d61e",
+    "score": 80,
+    "reasons": [
+      "Licenciatura en Econom\u00eda con maestr\u00eda en Finanzas en curso y certificaciones CFA.",
+      "Experiencia laboral en an\u00e1lisis financiero, gesti\u00f3n de carteras y reportes financieros detallados.",
+      "Conocimientos t\u00e9cnicos avanzados en Excel, SAP y herramientas BI.",
+      "Perfil anal\u00edtico con experiencia en modelado financiero, planificaci\u00f3n y reportes para alta direcci\u00f3n.",
+      "No se evidencia experiencia directa en supervisi\u00f3n de equipos, lo que limita la puntuaci\u00f3n m\u00e1xima."
+    ]
+  },
+  {
+    "participant_id": "a4844315-e69e-4957-9c77-616303004436",
+    "score": 30,
+    "reasons": [
+      "Experiencia laboral limitada a an\u00e1lisis y conciliaci\u00f3n de cuentas contables, cuentas a cobrar y control de importaciones, no evidencia liderazgo ni supervisi\u00f3n de equipos.",
+      "Formaci\u00f3n acad\u00e9mica t\u00e9cnica universitaria en administraci\u00f3n, no licenciatura ni maestr\u00eda en finanzas, contabilidad o econom\u00eda.",
+      "Conocimientos t\u00e9cnicos limitados a JD Edwards y SAP ERP, sin menci\u00f3n de Excel avanzado ni sistemas BI como Tableau o Power BI.",
+      "No se evidencia experiencia en modelado financiero avanzado, planificaci\u00f3n estrat\u00e9gica ni reportes financieros para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas operativas y administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "9a389ac8-8990-4294-8d35-42415f1a7def",
+    "score": 10,
+    "reasons": [
+      "Estudiante sin experiencia laboral relevante en finanzas o an\u00e1lisis financiero.",
+      "Perfil orientado a \u00e1reas comerciales y marketing, no a finanzas o administraci\u00f3n.",
+      "No cumple con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se mencionan conocimientos t\u00e9cnicos espec\u00edficos como Excel avanzado, SAP ERP o BI.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda."
+    ]
+  },
+  {
+    "participant_id": "009e784d-b014-4ce7-82c0-ea81cae743fe",
+    "score": 20,
+    "reasons": [
+      "Estudiante con experiencia laboral en roles no relacionados directamente con an\u00e1lisis financiero senior.",
+      "No evidencia experiencia en liderazgo ni supervisi\u00f3n.",
+      "Formaci\u00f3n acad\u00e9mica en curso, sin t\u00edtulo universitario ni maestr\u00eda.",
+      "No se mencionan conocimientos t\u00e9cnicos avanzados ni manejo de herramientas BI.",
+      "Perfil orientado a atenci\u00f3n al cliente y ventas, no a an\u00e1lisis financiero."
+    ]
+  },
+  {
+    "participant_id": "b3c92a23-15f4-4530-b4d2-8d54c3cd7db3",
+    "score": 75,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n con amplia experiencia en gesti\u00f3n y contabilidad.",
+      "Experiencia laboral en roles de gerencia operativa, administraci\u00f3n y contabilidad con liderazgo.",
+      "Conocimientos t\u00e9cnicos en SAP, Excel avanzado y herramientas BI.",
+      "Experiencia en elaboraci\u00f3n de presupuestos, an\u00e1lisis financiero y reportes para alta direcci\u00f3n.",
+      "Perfil s\u00f3lido que cumple con la mayor\u00eda de los requisitos del puesto, incluyendo habilidades interpersonales y de comunicaci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "db8470eb-95bf-47db-9f01-b0205bf52352",
+    "score": 40,
+    "reasons": [
+      "Experiencia laboral en roles administrativos y contables, pero sin evidencia clara de an\u00e1lisis financiero avanzado o liderazgo.",
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n, sin licenciatura ni maestr\u00eda en finanzas.",
+      "Conocimientos t\u00e9cnicos en Microsoft Office, con Excel avanzado, pero sin menci\u00f3n de SAP ERP o BI.",
+      "No se evidencia experiencia en modelado financiero, planificaci\u00f3n estrat\u00e9gica ni reportes para alta direcci\u00f3n.",
+      "Perfil m\u00e1s orientado a tareas administrativas que a an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "a7fd72c2-6a42-40d2-b5b9-54ef8796a10a",
+    "score": 55,
+    "reasons": [
+      "Formaci\u00f3n acad\u00e9mica en administraci\u00f3n con experiencia en an\u00e1lisis y conciliaci\u00f3n de cuentas.",
+      "Conocimientos t\u00e9cnicos en Excel y SAP, pero sin menci\u00f3n de herramientas BI.",
+      "Experiencia laboral en roles administrativos y contables, sin evidencia clara de liderazgo o supervisi\u00f3n.",
+      "Perfil con habilidades anal\u00edticas, pero con experiencia limitada en an\u00e1lisis financiero avanzado.",
+      "No cumple completamente con el requisito de experiencia m\u00ednima de 5 a 8 a\u00f1os en roles financieros avanzados."
+    ]
+  }
+]

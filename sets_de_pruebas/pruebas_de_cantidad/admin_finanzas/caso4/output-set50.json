@@ -1,0 +1,443 @@
+[
+  {
+    "participant_id": "e275b9c0-758f-49a7-af8b-7790f5c9c7cd",
+    "score": 0,
+    "reasons": [
+      "No tiene formaci\u00f3n t\u00e9cnica en electricidad o electromec\u00e1nica.",
+      "Experiencia laboral en \u00e1reas administrativas y contables, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con el requisito de 5-7 a\u00f1os de experiencia en mantenimiento el\u00e9ctrico."
+    ]
+  },
+  {
+    "participant_id": "90457342-ee20-45a3-8894-3748bf5cb028",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en marketing y periodismo, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en an\u00e1lisis financiero, cr\u00e9ditos y cobranzas, no en mantenimiento o sistemas el\u00e9ctricos.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "c425c8f1-7b3b-451e-89b7-194d52415a5e",
+    "score": 0,
+    "reasons": [
+      "Experiencia en cobranzas y administraci\u00f3n, no en mantenimiento el\u00e9ctrico o electromec\u00e1nico.",
+      "Formaci\u00f3n en administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "adbc08d6-185d-4487-84d8-1def24ff137c",
+    "score": 0,
+    "reasons": [
+      "Experiencia en cobranzas y administraci\u00f3n, no en mantenimiento el\u00e9ctrico o electromec\u00e1nico.",
+      "Formaci\u00f3n en periodismo, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "7c561c6f-c9e1-471c-be67-044ed3b06856",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n de empresas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, cobranzas y finanzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "7ac5dcab-171b-487a-ad35-15170c79b7ac",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en t\u00e9cnico superior en administraci\u00f3n de empresas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en an\u00e1lisis de cr\u00e9ditos y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "ddc17eab-f9a8-4f17-b21b-12203a4f98ab",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en contador p\u00fablico y administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3bda2608-a9ce-440e-8d29-9db43bdaf5e0",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en t\u00e9cnico superior en administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en cobranzas y atenci\u00f3n al cliente, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "b2e9a617-a13b-4222-9838-fb8b8a9fc1a9",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en contador p\u00fablico y administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "fb7e61f2-07ae-4364-8b1a-2f81d9460ce6",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en ingenier\u00eda petroqu\u00edmica y administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y contabilidad, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "2096b07b-5025-4ebf-b82c-5d84b902d0d6",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "d056d062-5bac-4e4c-ab96-8d3c8318f1fd",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "54a3fff1-3576-4ec5-a0f2-9f1e24be593a",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en ingenier\u00eda petroqu\u00edmica y administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y contabilidad, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "6f4727f8-66e8-428f-acc2-695ddb9f2934",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en ingenier\u00eda petroqu\u00edmica y administraci\u00f3n, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y contabilidad, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "5407e889-da9d-4606-9bb2-43bbe4bb45b1",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "67e0deb0-d1db-4b60-a89a-2985c39abacd",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "840846c5-f0dc-4411-8519-6390056aa46f",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "8288f1b4-b2f6-4f70-98c6-03eca0d94a48",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "09c214fd-9684-4221-9a99-ad4ccbcb8b0e",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "fc908a88-6368-491f-a578-f454f84eb8a0",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "55fd516e-bf8f-46a1-bc18-4634942fe404",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "08fadee4-76bf-4106-bf38-d2206ef7dbb8",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "e6df7747-3ecf-4f90-a3ef-cde2da4b9077",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "99252770-2920-4fbb-9cfc-c615ba49f969",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "c510f79e-d235-4ca6-8825-33d9fe2ac994",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "f828af66-ca74-431c-8a4a-6444b7ba8020",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "f53bbc6c-9eee-4fd4-8b35-6e7c6a0cd220",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "655756aa-27ac-4a8e-8c1b-87c4200f60a6",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "f34f4d90-e0c6-49b1-a929-91aeea8cd35e",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "ddec2dd4-5553-4e7f-8b7b-977cd04aa55d",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "2351b6d9-2a67-4c6d-bdd3-409c7c3e70ee",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "315cecbc-db1b-44cd-8b14-248f59dfa580",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "f7f5f5b1-7636-4fbe-986f-b37f76d881e7",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "44a176a9-09d7-474d-801c-86b013b5dcfc",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "31763681-9b66-41fd-b996-832b7085bc83",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "1cf4916c-8bb6-4867-a973-809c92ac0afc",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "21d1bd10-a35c-4f55-b89c-44105e004cde",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "445cd24f-b788-4629-8693-2a786191301a",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "ed911780-28f6-4e87-8969-1b1692b2dbb3",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "f34b16b8-23bc-46c1-ad65-1a15f7b23e56",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "99a827b0-2250-452e-b8e9-a7a04292a13b",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3d879057-b4ff-438d-a397-94568d465ed2",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "05cdbb8b-d01f-4445-afac-67360ff5192d",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "e5def10f-096a-48a2-a4a4-40d0d4adcfe3",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "cf1b522a-ba0c-401d-a47f-acc642ee458e",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "73796f15-cfec-44ab-9864-60c8135d8ec4",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "32220836-e10b-46b7-b48b-4c891c3544e4",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "95bccd60-7364-4da2-b4d3-a36226701be4",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  },
+  {
+    "participant_id": "1b356a29-8fdb-448d-8b7f-79acc383ffe9",
+    "score": 0,
+    "reasons": [
+      "Formaci\u00f3n en administraci\u00f3n y finanzas, no t\u00e9cnico el\u00e9ctrico o electromec\u00e1nico.",
+      "Experiencia en administraci\u00f3n, finanzas y cobranzas, no en mantenimiento o tareas el\u00e9ctricas.",
+      "No cumple con los requisitos t\u00e9cnicos ni experiencia espec\u00edfica para el puesto."
+    ]
+  }
+]

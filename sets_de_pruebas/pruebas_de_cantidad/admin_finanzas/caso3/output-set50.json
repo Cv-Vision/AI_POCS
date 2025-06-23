@@ -1,0 +1,452 @@
+[
+  {
+    "participant_id": "9db82fee-dda8-4d75-bf52-303dae1207f6",
+    "score": 90,
+    "reasons": [
+      "M\u00e1s de 10 a\u00f1os de experiencia en planificaci\u00f3n y control financiero, incluyendo an\u00e1lisis financiero y reportes para alta direcci\u00f3n.",
+      "Posee MBA, lo que cumple con el requisito de formaci\u00f3n avanzada valorada.",
+      "Experiencia en elaboraci\u00f3n de presupuestos anuales y planificaci\u00f3n estrat\u00e9gica a largo plazo.",
+      "Manejo de BI y herramientas financieras, aunque no especifica SAP, s\u00ed menciona Hyperion y BI.",
+      "Experiencia liderando equipos y coordinaci\u00f3n con diferentes \u00e1reas, cumpliendo con habilidades interpersonales y liderazgo.",
+      "Comunicaci\u00f3n en ingl\u00e9s y espa\u00f1ol, con habilidades para presentar informaci\u00f3n financiera compleja."
+    ]
+  },
+  {
+    "participant_id": "323ff23a-5f36-4457-bbb3-7ca572b3158c",
+    "score": 85,
+    "reasons": [
+      "Experiencia amplia en supervisi\u00f3n y control de gesti\u00f3n financiera, incluyendo reportes mensuales, trimestrales y anuales.",
+      "Experiencia liderando equipos y reportando a CFO y Directorio.",
+      "Conocimiento en cierre contable, an\u00e1lisis de variaciones y control de solvencia.",
+      "Experiencia en implementaci\u00f3n y evaluaci\u00f3n de procesos, auditor\u00eda interna y externa.",
+      "No menciona expl\u00edcitamente manejo de SAP o BI, pero tiene experiencia en sistemas de control y gesti\u00f3n.",
+      "Formaci\u00f3n universitaria en contabilidad y experiencia relevante en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "36920396-ee33-432e-aa15-dc4ac3dc4925",
+    "score": 40,
+    "reasons": [
+      "Licenciado en Econom\u00eda con experiencia reciente como analista de mercado de capitales y pasant\u00edas en contabilidad.",
+      "Experiencia limitada y no cumple con el requisito de 5 a 8 a\u00f1os en roles financieros avanzados.",
+      "No se menciona experiencia en liderazgo ni manejo de herramientas avanzadas como SAP o BI.",
+      "Perfil m\u00e1s junior, no adecuado para posici\u00f3n senior."
+    ]
+  },
+  {
+    "participant_id": "3e79f7e6-fa3e-4c7c-bed0-1a5ea8be2113",
+    "score": 30,
+    "reasons": [
+      "Experiencia en tesorer\u00eda y operaciones de caja, m\u00e1s orientada a tareas operativas que an\u00e1lisis financiero avanzado.",
+      "No cumple con experiencia m\u00ednima requerida ni liderazgo de equipos.",
+      "Formaci\u00f3n en contador p\u00fablico, pero sin experiencia en modelado financiero o planificaci\u00f3n estrat\u00e9gica.",
+      "Manejo b\u00e1sico de SAP y herramientas, pero no en contexto de an\u00e1lisis financiero senior."
+    ]
+  },
+  {
+    "participant_id": "a190e9b8-c215-49dc-8ea2-b2fd7f6a78b7",
+    "score": 25,
+    "reasons": [
+      "Perfil de abogado con especializaci\u00f3n en auditor\u00eda interna, sin experiencia financiera avanzada ni an\u00e1lisis financiero.",
+      "No cumple con requisitos t\u00e9cnicos ni experiencia en modelado financiero o planificaci\u00f3n presupuestaria.",
+      "No se ajusta a la industria ni responsabilidades del puesto."
+    ]
+  },
+  {
+    "participant_id": "337a5c93-f3a1-4248-b684-c2f93ade0938",
+    "score": 30,
+    "reasons": [
+      "Experiencia en an\u00e1lisis senior de cr\u00e9ditos y cobranzas, con manejo de presupuestos y reporting.",
+      "No se evidencia experiencia en an\u00e1lisis financiero detallado, modelado financiero o planificaci\u00f3n estrat\u00e9gica.",
+      "Formaci\u00f3n t\u00e9cnica y experiencia m\u00e1s orientada a cobranzas que a finanzas corporativas.",
+      "No cumple con liderazgo de analistas junior ni manejo de SAP o BI."
+    ]
+  },
+  {
+    "participant_id": "100de107-a0fa-49d1-bb28-e358ea669561",
+    "score": 20,
+    "reasons": [
+      "Perfil en marketing y gesti\u00f3n de proyectos, sin experiencia financiera ni an\u00e1lisis financiero.",
+      "No cumple con requisitos de formaci\u00f3n ni experiencia en finanzas.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "14d232fb-b5d3-40b3-bd66-a1044f31e375",
+    "score": 10,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n, sin experiencia relevante en an\u00e1lisis financiero senior ni liderazgo.",
+      "No cumple con experiencia m\u00ednima ni conocimientos t\u00e9cnicos requeridos.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "6b412d87-318f-4a88-892e-9ae6385d4c56",
+    "score": 15,
+    "reasons": [
+      "Experiencia en cobranzas y administraci\u00f3n, sin evidencia de an\u00e1lisis financiero avanzado o modelado.",
+      "No cumple con experiencia m\u00ednima ni formaci\u00f3n en finanzas o econom\u00eda.",
+      "No se ajusta al perfil senior requerido."
+    ]
+  },
+  {
+    "participant_id": "abb67396-560b-4786-8696-adb99768d6c9",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en atenci\u00f3n al cliente y cobranzas.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "eebfa478-ec7f-45a1-bc65-d8721631eb86",
+    "score": 15,
+    "reasons": [
+      "Perfil administrativo con experiencia en atenci\u00f3n al cliente y cobranzas, sin experiencia financiera avanzada.",
+      "No cumple con requisitos de formaci\u00f3n ni experiencia en an\u00e1lisis financiero o modelado.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "a7ab9fa6-4f28-4323-93b1-2b8bcc645fda",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en an\u00e1lisis de cr\u00e9ditos y cobranzas.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "7cac9269-1776-4835-b764-3171dff79090",
+    "score": 15,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en asistente administrativo y cobranzas.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "0c6b8e2c-dbdc-4035-a5a1-534cd7e35f47",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "ce8d72c4-63bb-4ae1-be6d-32d66fd47a1f",
+    "score": 10,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en atenci\u00f3n al cliente y cobranzas.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "9e9277b4-c811-40b9-a374-55283e612a8c",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "fea41b94-4c2b-4e10-95ef-bb315501eb81",
+    "score": 15,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "20c8cd98-1559-41c5-85dd-ac4eb3d747fa",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "aaf8ef2e-b524-4152-afce-e7e89874d157",
+    "score": 15,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3a342c9d-fac8-402d-b528-458b7ccbd586",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "f144e33d-a24a-43ea-b9b9-667116a790e6",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "84786db8-17fe-47ab-be9f-6e72ddddbf39",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "0ff529bc-e948-4958-adad-42e494d655ab",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "91b51531-eba3-499d-a14e-fdeaa1721e37",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "11ff3292-d817-4c79-89a4-3580505165f6",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "34aaa8fc-58c2-42d5-bc1e-25c9f74d3479",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3596e3a4-1412-433c-a553-08be50859dcf",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "09fc5ac7-e62c-4b15-9b45-0c06e65df2e0",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "56bf805b-c11d-4f06-ba8e-cce180ae44d4",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "0cb20236-af24-4215-9558-d0ac2cb2e928",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "5ea6715f-fd06-49a9-b9fd-8711b93591df",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "2bcb1bf7-c89d-4d1e-8ab0-cd39f4b3ca00",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "1e7175c2-a2d5-4e8d-b88f-8be9aa6b9e8a",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "af7bbc53-dd79-4c6b-aefe-ac26b279df1e",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "fcbd0196-1e03-47a1-a652-dfb9c512d685",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "7a777863-15db-4e62-ba29-c2d9eff67e54",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "34c6721f-40cc-4e7b-afb7-7689a5bb1356",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "ab6003be-6d89-44ac-9157-5c3fdc538a04",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "afd23b40-d83c-474e-a061-cd0a91c405ed",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "1c773382-38ae-4a17-b516-e8d5ff83dbdf",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "e26ff0cb-0e1a-459f-9188-aeadbcba8e4c",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "1f808677-ec05-4f87-9577-42f3a733288a",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "ed8e2f2f-a04e-42ff-a9ce-4c6a3438a8b0",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "da36a6b9-2c5b-434f-ad7c-b9516f17c483",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "abac0d1d-83ed-46b2-b4a9-fa35a0812d6a",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "5db697c5-b452-418b-9813-91a1e8e78b81",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "84212f37-dfa6-4e9f-82be-6a12c356f740",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3c6fa979-5dfc-4ce0-9c7f-c6df146f3b67",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  },
+  {
+    "participant_id": "5b7c9a1c-13dc-4b85-8a3c-2bbc9b4234d3",
+    "score": 20,
+    "reasons": [
+      "Perfil junior en administraci\u00f3n con experiencia en cobranzas y atenci\u00f3n al cliente.",
+      "No cumple con experiencia ni formaci\u00f3n en an\u00e1lisis financiero senior ni liderazgo.",
+      "No es adecuado para el puesto."
+    ]
+  }
+]

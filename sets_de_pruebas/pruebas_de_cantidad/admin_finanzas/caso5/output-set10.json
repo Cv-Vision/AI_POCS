@@ -1,0 +1,109 @@
+[
+  {
+    "participant_id": "999a2520-1d89-4133-902f-12dad69c5f04",
+    "score": 40,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n de Empresas, no en Finanzas, Contabilidad o Econom\u00eda, requisito preferido.",
+      "Experiencia laboral principalmente en supervisi\u00f3n administrativa, facturaci\u00f3n y cobranzas, no en an\u00e1lisis financiero avanzado ni modelado financiero.",
+      "No menciona manejo avanzado de Excel ni ERP SAP o sistemas BI.",
+      "No evidencia liderazgo de equipos de analistas financieros ni reporte a alta direcci\u00f3n.",
+      "Conocimientos de Excel a nivel intermedio, no avanzado.",
+      "No se observan responsabilidades claras en planificaci\u00f3n estrat\u00e9gica o presupuestaci\u00f3n alineada a objetivos estrat\u00e9gicos."
+    ]
+  },
+  {
+    "participant_id": "036fcc67-f960-42b2-9465-58d6574778cf",
+    "score": 85,
+    "reasons": [
+      "Amplia experiencia financiera desde 2003, con roles crecientes hasta supervisor contable y control de gesti\u00f3n.",
+      "Experiencia en reportes a CFO y directorio, liderazgo de equipos (hasta 6 personas).",
+      "Responsable de cierres mensuales, trimestrales y anuales, an\u00e1lisis de variaciones, control de solvencia y presentaci\u00f3n de balances.",
+      "Conocimiento en auditor\u00eda interna y externa, implementaci\u00f3n de procesos y control de gesti\u00f3n.",
+      "No se menciona expl\u00edcitamente dominio de ERP SAP o sistemas BI, pero experiencia en control y reportes financieros avanzados.",
+      "Formaci\u00f3n no detallada en el CV, pero experiencia s\u00f3lida en an\u00e1lisis financiero y liderazgo."
+    ]
+  },
+  {
+    "participant_id": "16ce3236-8243-447f-9cee-f126e0cf662f",
+    "score": 25,
+    "reasons": [
+      "No se evidencia formaci\u00f3n universitaria completa en Finanzas, Contabilidad o Econom\u00eda.",
+      "Experiencia laboral m\u00e1s orientada a tareas administrativas, coordinaci\u00f3n y apoyo en laboratorios y secretariado.",
+      "No se observan responsabilidades en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "Manejo b\u00e1sico de Office, sin menci\u00f3n de Excel avanzado, ERP SAP o BI.",
+      "No hay evidencia de liderazgo de equipos ni reporte a alta direcci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "8869b715-03b5-43cb-92a8-b1260335d9c5",
+    "score": 55,
+    "reasons": [
+      "Licenciatura en Administraci\u00f3n de Empresas finalizada en 2021, formaci\u00f3n adecuada.",
+      "Experiencia reciente en an\u00e1lisis y control de cuentas corrientes, negociaci\u00f3n con proveedores y confecci\u00f3n de reportes.",
+      "Manejo de sistemas Tango y an\u00e1lisis de datos financieros, aunque no se menciona ERP SAP ni BI.",
+      "Experiencia limitada en liderazgo o supervisi\u00f3n de equipos.",
+      "No se evidencia experiencia en modelado financiero avanzado ni reportes a alta direcci\u00f3n.",
+      "Experiencia en planificaci\u00f3n y seguimiento de compras y ventas, pero no claramente en planificaci\u00f3n estrat\u00e9gica financiera."
+    ]
+  },
+  {
+    "participant_id": "5811556b-1500-470a-b15c-19dc6be2214a",
+    "score": 45,
+    "reasons": [
+      "Formaci\u00f3n universitaria incompleta en Licenciatura en Administraci\u00f3n de Empresas, no en Finanzas o Econom\u00eda.",
+      "Experiencia laboral en facturaci\u00f3n, gesti\u00f3n de cobranzas y atenci\u00f3n al p\u00fablico, sin evidencia clara de an\u00e1lisis financiero avanzado.",
+      "Manejo b\u00e1sico de Word, Excel y PowerPoint, sin menci\u00f3n de Excel avanzado o ERP SAP.",
+      "No se observan responsabilidades de liderazgo ni reportes a alta direcci\u00f3n.",
+      "No se evidencia experiencia en modelado financiero ni planificaci\u00f3n presupuestaria estrat\u00e9gica."
+    ]
+  },
+  {
+    "participant_id": "1c24eb81-59c7-4f72-b66f-dfc10c8625d0",
+    "score": 70,
+    "reasons": [
+      "Licenciatura en Econom\u00eda en curso, con finalizaci\u00f3n prevista para 2024, formaci\u00f3n adecuada aunque no finalizada.",
+      "Experiencia en an\u00e1lisis econ\u00f3mico, manejo de Excel avanzado y SAP, y trabajo en equipo.",
+      "Cursos de Excel avanzado, Tableau y Bloomberg Market Concepts, alineados con requisitos t\u00e9cnicos.",
+      "Experiencia en coordinaci\u00f3n y an\u00e1lisis econ\u00f3mico, pero no se menciona liderazgo de equipos ni reportes a alta direcci\u00f3n.",
+      "No se evidencia experiencia espec\u00edfica en modelado financiero ni planificaci\u00f3n presupuestaria estrat\u00e9gica."
+    ]
+  },
+  {
+    "participant_id": "78bfcd94-01b2-42f8-af2c-bd218fac1b0c",
+    "score": 20,
+    "reasons": [
+      "Estudiante de Ingenier\u00eda Industrial, sin formaci\u00f3n en Finanzas, Contabilidad o Econom\u00eda.",
+      "Experiencia limitada a pasant\u00eda con carga y seguimiento de \u00f3rdenes de compra y facturas, uso b\u00e1sico de SAP y Excel.",
+      "No se evidencia an\u00e1lisis financiero, modelado, planificaci\u00f3n presupuestaria ni reportes a alta direcci\u00f3n.",
+      "No hay experiencia en liderazgo ni supervisi\u00f3n de equipos."
+    ]
+  },
+  {
+    "participant_id": "89665cf4-bc5b-4f40-afb9-2fcdfad4966f",
+    "score": 0,
+    "reasons": [
+      "Archivo ilegible o corrupto, no se puede evaluar."
+    ]
+  },
+  {
+    "participant_id": "a28743de-b071-4786-86a1-657c0c5dbb96",
+    "score": 30,
+    "reasons": [
+      "Formaci\u00f3n secundaria completa y estudios universitarios incompletos en Ciencias Econ\u00f3micas (23 materias aprobadas).",
+      "Experiencia laboral en asistencia administrativa y facturaci\u00f3n, sin evidencia de an\u00e1lisis financiero avanzado ni modelado.",
+      "No se menciona manejo de Excel avanzado, ERP SAP o sistemas BI.",
+      "No se evidencia liderazgo ni reporte a alta direcci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "43affef6-396f-4bf8-9152-9eedb5a36484",
+    "score": 50,
+    "reasons": [
+      "Experiencia administrativa extensa en administraci\u00f3n p\u00fablica, con tareas de gesti\u00f3n, administraci\u00f3n y atenci\u00f3n.",
+      "No se evidencia formaci\u00f3n universitaria en Finanzas, Contabilidad o Econom\u00eda.",
+      "No se menciona manejo de Excel avanzado, ERP SAP o BI.",
+      "No se evidencia experiencia en an\u00e1lisis financiero avanzado, modelado o planificaci\u00f3n presupuestaria.",
+      "No se observa liderazgo de equipos ni reporte a alta direcci\u00f3n."
+    ]
+  }
+]

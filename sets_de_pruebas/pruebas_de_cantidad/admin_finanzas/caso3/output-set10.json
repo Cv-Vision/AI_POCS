@@ -1,0 +1,101 @@
+[
+  {
+    "participant_id": "8f1d3fdb-c765-4f26-af07-e1f8162c55d3",
+    "score": 40,
+    "reasons": [
+      "Experiencia principalmente en tareas administrativas y comerciales, no en an\u00e1lisis financiero avanzado.",
+      "Conocimiento b\u00e1sico de Excel y SAP, pero sin evidencia clara de modelado financiero o manejo de BI.",
+      "No se menciona experiencia liderando equipos ni proyectos financieros cr\u00edticos.",
+      "Educaci\u00f3n no alineada directamente con finanzas, econom\u00eda o contabilidad (Secretaria Ejecutiva)."
+    ]
+  },
+  {
+    "participant_id": "18b1c3ef-0d61-4eb6-807b-af6854e28310",
+    "score": 35,
+    "reasons": [
+      "Formaci\u00f3n en Contador P\u00fablico en curso, sin t\u00edtulo a\u00fan.",
+      "Experiencia laboral limitada a tareas contables b\u00e1sicas y administrativas, sin evidencia de an\u00e1lisis financiero avanzado o modelado.",
+      "No se menciona experiencia en liderazgo ni en proyectos estrat\u00e9gicos.",
+      "Conocimiento de Excel avanzado y manejo de facturaci\u00f3n, pero sin experiencia con ERP SAP o BI."
+    ]
+  },
+  {
+    "participant_id": "5887b141-7d1f-4bdf-bb32-1d3ef3dd3669",
+    "score": 20,
+    "reasons": [
+      "Estudiante de ingenier\u00eda industrial, sin formaci\u00f3n espec\u00edfica en finanzas, econom\u00eda o contabilidad.",
+      "Experiencia limitada a pasant\u00eda con carga y seguimiento de \u00f3rdenes y facturas, uso b\u00e1sico de SAP y Excel.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o liderazgo.",
+      "Perfil m\u00e1s junior y sin experiencia relevante para un rol senior."
+    ]
+  },
+  {
+    "participant_id": "0331f5f4-d19f-4f0d-8942-8701905235ff",
+    "score": 25,
+    "reasons": [
+      "Formaci\u00f3n en derecho y auditor\u00eda interna, no en finanzas o econom\u00eda.",
+      "Experiencia en auditor\u00eda y control interno, no en an\u00e1lisis financiero o modelado.",
+      "No se menciona manejo de herramientas espec\u00edficas como SAP o BI.",
+      "No evidencia experiencia en liderazgo de equipos financieros ni en planificaci\u00f3n presupuestaria."
+    ]
+  },
+  {
+    "participant_id": "166c9241-f067-43c2-8900-ae45553d0ba3",
+    "score": 75,
+    "reasons": [
+      "Licenciado en Econom\u00eda con Maestr\u00eda en Finanzas en curso, formaci\u00f3n acad\u00e9mica alineada.",
+      "Experiencia en an\u00e1lisis financiero, modelado, valoraci\u00f3n de activos y reportes financieros en JP Morgan & Chase.",
+      "Conocimiento avanzado en herramientas como Excel, Tableau y otros sistemas de an\u00e1lisis.",
+      "No se menciona expl\u00edcitamente experiencia liderando equipos, pero s\u00ed trabajo en management y proyectos complejos.",
+      "Perfil muy adecuado para el puesto senior, con habilidades t\u00e9cnicas y anal\u00edticas destacadas."
+    ]
+  },
+  {
+    "participant_id": "2957a3a3-9517-400c-8b2b-c42a865b6b14",
+    "score": 30,
+    "reasons": [
+      "Estudiante de econom\u00eda con curso t\u00e9cnico financiero en curso, perfil junior.",
+      "Experiencia laboral en roles no relacionados con finanzas avanzadas, m\u00e1s bien en atenci\u00f3n al cliente y retail.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "No se menciona liderazgo ni manejo de ERP SAP o BI."
+    ]
+  },
+  {
+    "participant_id": "c7ec1348-73fa-47e6-aec3-d29063ede13b",
+    "score": 50,
+    "reasons": [
+      "Licenciado en Econom\u00eda con experiencia en an\u00e1lisis e interpretaci\u00f3n financiera y manejo de bases de datos.",
+      "Experiencia en registro y control de inversiones, conciliaciones bancarias y an\u00e1lisis financiero en pasant\u00edas y asistencias.",
+      "Conocimientos en Excel, Word, PowerPoint y programas adicionales como R, Stata y Python.",
+      "Perfil m\u00e1s junior, sin experiencia clara en liderazgo ni en manejo de ERP SAP o BI.",
+      "No se evidencia experiencia en modelado financiero avanzado ni en reportes para alta direcci\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "7082f10e-aecc-46e9-92e4-dfd0a729bb23",
+    "score": 15,
+    "reasons": [
+      "Experiencia en administraci\u00f3n de cr\u00e9ditos y cobranzas, no en an\u00e1lisis financiero o planificaci\u00f3n estrat\u00e9gica.",
+      "Formaci\u00f3n incompleta en relaciones internacionales, sin t\u00edtulo final.",
+      "No se menciona experiencia en modelado financiero, reportes para alta direcci\u00f3n ni liderazgo de equipos.",
+      "Conocimientos inform\u00e1ticos generales, pero no espec\u00edficos para an\u00e1lisis financiero avanzado."
+    ]
+  },
+  {
+    "participant_id": "879d947d-be80-450f-a898-4a5f5d08990b",
+    "score": 10,
+    "reasons": [
+      "Perfil de estudiante de econom\u00eda sin experiencia laboral relevante en finanzas.",
+      "Experiencia laboral en roles no relacionados con an\u00e1lisis financiero o modelado.",
+      "No se menciona manejo de herramientas financieras ni liderazgo.",
+      "Perfil muy junior y no alineado con los requisitos del puesto senior."
+    ]
+  },
+  {
+    "participant_id": "ff87f842-f476-4803-97ef-c2fcadb6bb67",
+    "score": 0,
+    "reasons": [
+      "No se encontr\u00f3 informaci\u00f3n del curr\u00edculum para evaluar."
+    ]
+  }
+]

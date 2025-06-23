@@ -1,0 +1,98 @@
+[
+  {
+    "participant_id": "ed5f1c62-8a55-4c7b-8c9b-35032b7329cb",
+    "score": 10,
+    "reasons": [
+      "El candidato es estudiante y busca su primera experiencia laboral formal en finanzas.",
+      "No posee experiencia profesional relevante en an\u00e1lisis financiero o roles financieros avanzados.",
+      "No se evidencia experiencia en la industria financiera acorde al puesto.",
+      "No cumple con el requisito de 5 a 8 a\u00f1os de experiencia en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "5fc7065d-4845-4a67-ad66-4f0cf458bbfd",
+    "score": 5,
+    "reasons": [
+      "Experiencia laboral centrada en roles administrativos y de secretaria, no en finanzas.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado financiero o planificaci\u00f3n presupuestaria.",
+      "No pertenece ni tiene experiencia en la industria financiera acorde al puesto.",
+      "No cumple con el requisito de experiencia m\u00ednima en roles financieros avanzados."
+    ]
+  },
+  {
+    "participant_id": "e8f4ab41-6857-449f-a32d-57f6fac53a1a",
+    "score": 60,
+    "reasons": [
+      "Posee 5 a\u00f1os de experiencia en roles administrativos y analistas administrativos con manejo de facturaci\u00f3n y control de gastos.",
+      "Experiencia en manejo de software relacionado a finanzas como Netsuite, Hap y Equal.",
+      "No se evidencia experiencia en an\u00e1lisis financiero avanzado, modelado financiero o liderazgo de equipos.",
+      "No se menciona experiencia en la industria financiera, pero s\u00ed en \u00e1reas administrativas con enfoque financiero.",
+      "Cumple parcialmente con la experiencia requerida, pero no en un rol senior ni en la industria financiera espec\u00edfica."
+    ]
+  },
+  {
+    "participant_id": "c4e916eb-a52a-4b2c-b0c5-1fbe0e342cae",
+    "score": 90,
+    "reasons": [
+      "Licenciado en Econom\u00eda con Maestr\u00eda en Finanzas y certificaciones CFA nivel I y II.",
+      "Experiencia laboral en JP Morgan & Chase en roles relacionados con an\u00e1lisis financiero y cumplimiento regulatorio.",
+      "Experiencia en modelado financiero, valoraci\u00f3n de activos y reportes financieros.",
+      "Pertenece claramente a la industria financiera y cumple con experiencia avanzada en roles financieros.",
+      "Cumple con los requisitos de educaci\u00f3n, experiencia y conocimientos t\u00e9cnicos para el puesto."
+    ]
+  },
+  {
+    "participant_id": "47ac327f-e96c-4d54-9bc9-ffe642adf163",
+    "score": 0,
+    "reasons": [
+      "Experiencia y formaci\u00f3n en dise\u00f1o gr\u00e1fico y arte digital, sin relaci\u00f3n con finanzas o an\u00e1lisis financiero.",
+      "No pertenece ni tiene experiencia en la industria financiera.",
+      "No cumple con los requisitos del puesto en educaci\u00f3n ni experiencia."
+    ]
+  },
+  {
+    "participant_id": "3bb719bf-ffd0-45c6-bd51-222970367ac2",
+    "score": 0,
+    "reasons": [
+      "Experiencia y formaci\u00f3n en dise\u00f1o gr\u00e1fico, sin relaci\u00f3n con finanzas o an\u00e1lisis financiero.",
+      "No pertenece ni tiene experiencia en la industria financiera.",
+      "No cumple con los requisitos del puesto en educaci\u00f3n ni experiencia."
+    ]
+  },
+  {
+    "participant_id": "b8d1fad1-d68b-4f7e-ade2-8f4d0305ea85",
+    "score": 0,
+    "reasons": [
+      "Experiencia y formaci\u00f3n en dise\u00f1o gr\u00e1fico, sin relaci\u00f3n con finanzas o an\u00e1lisis financiero.",
+      "No pertenece ni tiene experiencia en la industria financiera.",
+      "No cumple con los requisitos del puesto en educaci\u00f3n ni experiencia."
+    ]
+  },
+  {
+    "participant_id": "48e6fa34-7b15-42fa-b137-a35c1b0b66f0",
+    "score": 0,
+    "reasons": [
+      "Experiencia laboral en atenci\u00f3n al cliente y dise\u00f1o, sin relaci\u00f3n con finanzas o an\u00e1lisis financiero.",
+      "No pertenece ni tiene experiencia en la industria financiera.",
+      "No cumple con los requisitos del puesto en educaci\u00f3n ni experiencia."
+    ]
+  },
+  {
+    "participant_id": "5709fd93-275f-49b9-bff6-4355ad452edd",
+    "score": 0,
+    "reasons": [
+      "Experiencia laboral en atenci\u00f3n al cliente y dise\u00f1o, sin relaci\u00f3n con finanzas o an\u00e1lisis financiero.",
+      "No pertenece ni tiene experiencia en la industria financiera.",
+      "No cumple con los requisitos del puesto en educaci\u00f3n ni experiencia."
+    ]
+  },
+  {
+    "participant_id": "99e7cc78-2178-4797-be54-436a9dfcde61",
+    "score": 0,
+    "reasons": [
+      "Experiencia laboral en atenci\u00f3n al cliente y dise\u00f1o, sin relaci\u00f3n con finanzas o an\u00e1lisis financiero.",
+      "No pertenece ni tiene experiencia en la industria financiera.",
+      "No cumple con los requisitos del puesto en educaci\u00f3n ni experiencia."
+    ]
+  }
+]

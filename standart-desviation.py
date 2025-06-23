@@ -31,7 +31,7 @@ def calculate_score_standard_deviation(json_file_path):
         return 0.0 # Return 0 if no scores, or you could return None
 
     try:
-        std_dev = statistics.stdev(scores)
+        std_dev = statistics.mean(scores)
         return std_dev
     except statistics.StatisticsError as e:
         print(f"Error calculating standard deviation: {e}")
@@ -40,11 +40,11 @@ def calculate_score_standard_deviation(json_file_path):
 
 if __name__ == "__main__":
 
-    casos = ["admin_finanzas", "diseño_grafico", "ejecutivo_cuentas_digitales", "ejecutivo_influencers", "ingenieria_informatica", "rrhh", "tecnico_mantenimiento"]
+    casos = ["tecnico_mantenimiento"]
     cantidad_casos = 5
 
     for caso in casos:
         for i in range(cantidad_casos):
-            json_file_path = "sets_de_pruebas/pruebas_de_calidad/"+ caso + "/caso" + str(i + 1) + "/"
+            json_file_path = "pruebas_mirko/sets_de_pruebas/pruebas_de_calidad/"+ caso + "/caso" + str(i + 1) + "/"
             std_dev = calculate_score_standard_deviation(json_file_path)
-            print("Standard Deviation for " + caso + " Caso " + str(i + 1) + ": " + str(round(std_dev, 2)))
+            print(str(round(std_dev, 2)))
