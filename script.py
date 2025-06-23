@@ -6,7 +6,7 @@ def analyze_scores(json_path):
         data = json.load(f)
 
     total = len(data)
-    above_50 = sum(1 for entry in data if entry.get("score", 0) > 50)
+    above_50 = sum(1 for entry in data if entry.get("score", 0) >= 60)
     below_or_equal_50 = total - above_50
 
     print(f"Total entries: {total}")
@@ -34,4 +34,4 @@ def remove_first_x(json_path, x):
     print(f"Removed the first {x} entries. New length: {len(new_data)}")
 
 if __name__ == "__main__":
-        analyze_scores("sets_de_pruebas/pruebas_de_cantidad/cuentas_digitales/caso5/output-set50.json")
+        analyze_scores("sets_de_pruebas/pruebas_de_cantidad/ejecutivo_influencers/caso4/output-set50.json")

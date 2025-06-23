@@ -1,309 +1,302 @@
 [
   {
-    "participant_id": "5fa7a0b8-b4b0-4126-aa9c-0020a6f6bf6c",
+    "participant_id": "5747830a-b009-4d49-a287-363a11cb2aed",
+    "score": 20,
+    "reasons": [
+      "No se evidencia experiencia demostrable como maestro.",
+      "Formaci\u00f3n acad\u00e9mica en Ciencias de la Educaci\u00f3n y Danza, pero no grado en Magisterio ni certificado en educaci\u00f3n.",
+      "Experiencia laboral en atenci\u00f3n al cliente, no en docencia.",
+      "No se menciona conocimiento de RCP ni experiencia en organizaci\u00f3n de clases o actividades educativas."
+    ]
+  },
+  {
+    "participant_id": "f536858f-1dce-423d-8f97-9167024ec91a",
+    "score": 30,
+    "reasons": [
+      "Experiencia en asesor\u00eda pedag\u00f3gica y extensi\u00f3n universitaria, pero no experiencia directa como maestro en niveles escolares.",
+      "Formaci\u00f3n en administraci\u00f3n y pol\u00edticas p\u00fablicas, no en Magisterio ni educaci\u00f3n primaria o secundaria.",
+      "No se evidencia conocimiento o certificaci\u00f3n en RCP.",
+      "No se menciona experiencia en planificaci\u00f3n o impartici\u00f3n de clases."
+    ]
+  },
+  {
+    "participant_id": "f086bc67-811d-4783-96d8-25396b692245",
+    "score": 50,
+    "reasons": [
+      "Experiencia docente en escuelas normales y en talleres de filosof\u00eda, con funciones de docente y bedel.",
+      "Formaci\u00f3n en Filosof\u00eda, pero no grado en Magisterio ni certificado espec\u00edfico en educaci\u00f3n.",
+      "Se menciona experiencia en armado de talleres y docencia, lo que se acerca a la planificaci\u00f3n y ejecuci\u00f3n de actividades educativas.",
+      "No se menciona conocimiento de RCP ni experiencia con medios audiovisuales."
+    ]
+  },
+  {
+    "participant_id": "4f93644e-a8bf-4fe8-8878-6ef4a5703342",
+    "score": 40,
+    "reasons": [
+      "Licenciada en Psicolog\u00eda con posgrado en educaci\u00f3n para nivel secundario y superior, experiencia docente en nivel secundario y terciario.",
+      "No se menciona experiencia espec\u00edfica como maestro en niveles primarios o educaci\u00f3n b\u00e1sica.",
+      "No se evidencia conocimiento o certificaci\u00f3n en RCP.",
+      "Experiencia en docencia y gesti\u00f3n educativa, pero no se detalla planificaci\u00f3n o uso de medios audiovisuales."
+    ]
+  },
+  {
+    "participant_id": "582e2197-e1c4-494c-89df-747d589d108a",
+    "score": 60,
+    "reasons": [
+      "Licenciatura en Psicolog\u00eda y Profesorado en Psicolog\u00eda, con experiencia docente en nivel primario, secundario y terciario.",
+      "Experiencia en docencia, coordinaci\u00f3n y psicolog\u00eda educativa, lo que puede aportar en la observaci\u00f3n y comprensi\u00f3n del comportamiento de alumnos.",
+      "No se menciona conocimiento de RCP ni certificaci\u00f3n en educaci\u00f3n formal como Magisterio.",
+      "Experiencia en planificaci\u00f3n y uso de tecnolog\u00eda educativa no est\u00e1 claramente detallada."
+    ]
+  },
+  {
+    "participant_id": "9d952818-95f1-4382-8906-74317298aec8",
+    "score": 70,
+    "reasons": [
+      "Licenciada en Ciencias de la Educaci\u00f3n con experiencia docente en nivel superior y en talleres de educaci\u00f3n a distancia.",
+      "Experiencia en asesor\u00eda pedag\u00f3gica, confecci\u00f3n de materiales did\u00e1cticos y coordinaci\u00f3n de actividades educativas.",
+      "No se menciona conocimiento de RCP ni certificaci\u00f3n espec\u00edfica en Magisterio.",
+      "Experiencia en organizaci\u00f3n y supervisi\u00f3n, pero no se detalla uso de medios audiovisuales o ense\u00f1anza individualizada."
+    ]
+  },
+  {
+    "participant_id": "f02f158e-e5fd-46fd-bcc4-67355abe28f9",
+    "score": 65,
+    "reasons": [
+      "Experiencia docente en cursos de teor\u00eda del conocimiento y coordinaci\u00f3n de proyectos educativos.",
+      "Formaci\u00f3n en educaci\u00f3n y experiencia en coordinaci\u00f3n y dise\u00f1o de programas educativos.",
+      "No se menciona experiencia directa en ense\u00f1anza primaria o secundaria ni uso de medios audiovisuales.",
+      "No se evidencia conocimiento o certificaci\u00f3n en RCP."
+    ]
+  },
+  {
+    "participant_id": "003b95f1-8f5e-4d17-8977-a20538f7f722",
+    "score": 30,
+    "reasons": [
+      "Formaci\u00f3n en Licenciatura en Psicolog\u00eda y Terapia Ocupacional, con experiencia docente universitaria y en rehabilitaci\u00f3n.",
+      "No se evidencia experiencia como maestro en niveles escolares ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Experiencia m\u00e1s orientada a salud y terapia ocupacional que a educaci\u00f3n escolar."
+    ]
+  },
+  {
+    "participant_id": "21ec4885-83b3-4034-b2a8-e438a8d7e9c6",
+    "score": 75,
+    "reasons": [
+      "Experiencia docente en educaci\u00f3n secundaria y superior, con formaci\u00f3n en Filosof\u00eda y Educaci\u00f3n.",
+      "Amplia experiencia en docencia, coordinaci\u00f3n y gesti\u00f3n educativa, incluyendo planificaci\u00f3n y evaluaci\u00f3n.",
+      "Certificaci\u00f3n en RCP mencionada, lo que cumple un requisito clave.",
+      "No se detalla expl\u00edcitamente el uso de medios audiovisuales, pero la experiencia en coordinaci\u00f3n y docencia es relevante."
+    ]
+  },
+  {
+    "participant_id": "69273231-71ed-40e9-8e5a-e3806247dd10",
+    "score": 80,
+    "reasons": [
+      "Licenciatura en Ciencias de la Educaci\u00f3n con experiencia docente en nivel primario y jard\u00edn de infantes.",
+      "Experiencia en coordinaci\u00f3n de \u00e1reas, planificaci\u00f3n y docencia directa.",
+      "No se menciona expl\u00edcitamente conocimiento de RCP, pero tiene experiencia en educaci\u00f3n formal.",
+      "Experiencia en voluntariado y apoyo escolar que puede complementar el perfil docente."
+    ]
+  },
+  {
+    "participant_id": "05c27633-2869-469e-9547-0a1602cf315e",
     "score": 25,
     "reasons": [
-      "El currículum no muestra experiencia previa trabajando en agencias o consultoras con foco digital, como se requiere explícitamente en la descripción del puesto.",
-      "La experiencia profesional principal se centra en el ámbito educativo (OTT Educación Superior) y roles administrativos/de recepción (TOPPS Argentina, Achaval Cornejo), lo cual no se alinea con los sectores de negocio, consumo, tecnología y entretenimiento mencionados por la empresa ni con un enfoque en consultoría digital.",
-      "Aunque se menciona el manejo de redes sociales y Canva bajo 'Informática', no hay evidencia detallada de experiencia profesional en la generación de contenido digital para clientes o en la gestión de redes sociales a nivel estratégico/operativo como se demanda en las responsabilidades del rol.",
-      "La experiencia en 'Trato con clientes' mencionada en roles anteriores parece estar más relacionada con recepción y gestión administrativa/académica que con la gestión de cuentas y consultoría en comunicación digital.",
-      "Las responsabilidades descritas en la experiencia del candidato (coordinación académica, RSE, administración, recepción) no coinciden con las responsabilidades clave del puesto (creación de contenido digital para redes, social listening, colaboración en estrategias digitales, reportes en el ámbito digital).",
-      "Cumple con el requisito de nivel de inglés avanzado."
+      "Formaci\u00f3n en Psicolog\u00eda con especializaci\u00f3n en cl\u00ednica y psicoterapia, experiencia en coordinaci\u00f3n de charlas y grupos terap\u00e9uticos.",
+      "No se evidencia experiencia directa como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a psicolog\u00eda cl\u00ednica que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "e64281d7-a2d1-4b2c-9b3e-bc87db640e0c",
-    "score": 0,
+    "participant_id": "8fbd848b-8e5c-482e-8c59-a97261b7ff08",
+    "score": 85,
     "reasons": [
-      "El archivo del currículum está ilegible o corrupto y no puede ser evaluado."
+      "Licenciada en Ciencias de la Educaci\u00f3n con experiencia docente en nivel primario y secundario.",
+      "Experiencia en coordinaci\u00f3n de proyectos de capacitaci\u00f3n y educaci\u00f3n, uso de medios audiovisuales y planificaci\u00f3n.",
+      "No se menciona expl\u00edcitamente conocimiento de RCP, pero tiene formaci\u00f3n y experiencia docente s\u00f3lida.",
+      "Perfil muy alineado con los requisitos del puesto, incluyendo compromiso y organizaci\u00f3n."
     ]
   },
   {
-    "participant_id": "38ac31bd-d3d7-4839-a446-7bd141ae6947",
-    "score": 0,
+    "participant_id": "5acd7763-3511-4a3b-a057-0a7043b63fda",
+    "score": 40,
     "reasons": [
-      "El archivo del currículum es ilegible o corrupto y no se pudo procesar su contenido.",
-      "No fue posible evaluar la adecuación del candidato a la descripción del puesto."
+      "Formaci\u00f3n en Filosof\u00eda con doctorado en curso, experiencia docente universitaria y en investigaci\u00f3n.",
+      "No se evidencia experiencia directa como maestro en niveles escolares ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a educaci\u00f3n superior y filosof\u00eda que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "45512f35-e6c9-475d-98d4-16bff312068c",
-    "score": 10,
+    "participant_id": "c90830d6-e906-44e7-b1d9-655a5efd0d06",
+    "score": 20,
     "reasons": [
-      "La experiencia laboral del candidato se centra predominantemente en el sector educativo (Instituciones Educativas, Ministerios de Educación) y en roles de asesoramiento pedagógico, secretaría de extensión y consultoría en temas educativos, lo cual no se alinea con el requisito de experiencia en agencias o consultoras con foco digital.",
-      "No se menciona experiencia específica en áreas digitales, generación de contenido para medios digitales, manejo de redes sociales a nivel profesional o social media listening, que son responsabilidades clave del puesto.",
-      "No se menciona el nivel de inglés del candidato, siendo un requisito excluyente (nivel intermedio/avanzado) para la posición.",
-      "Si bien hay experiencia como 'Consultora', el contexto es educativo y no digital o de comunicación/marketing, lo cual no cumple con el requisito de experiencia en consultoría con un foco digital.",
-      "El currículum no proporciona detalles sobre el manejo de GSuite, que es una herramienta requerida."
+      "Formaci\u00f3n en Sociolog\u00eda con especializaci\u00f3n en educaci\u00f3n, experiencia en coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "No se evidencia experiencia directa como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a gesti\u00f3n educativa que a docencia directa."
     ]
   },
   {
-    "participant_id": "d6a89dbb-7501-4f53-92c4-afa20e372f3d",
-    "score": 5,
+    "participant_id": "a13a120b-bf86-480f-ae46-3f73357aac7a",
+    "score": 75,
     "reasons": [
-      "El currículum no muestra experiencia relevante en agencias o consultoras con foco en áreas digitales, como requiere la descripción del puesto.",
-      "La experiencia profesional se centra exclusivamente en el sector educativo (dirección de colegios, docencia), no en los sectores de negocios, consumo, tecnología o entretenimiento de la industria de la comunicación digital.",
-      "No hay evidencia de experiencia en la generación de contenido para medios digitales ni de ser 'heavy user' de redes sociales.",
-      "Aunque se mencionan habilidades sociales y se lista un seminario de Inteligencia Emocional, no hay demostración de 'trato con clientes' en el contexto de una agencia de comunicación o consultora.",
-      "Si bien se menciona 'mente tecnológica' y un curso sobre el currículo digital, la experiencia detallada no refleja manejo de herramientas digitales ni responsabilidades asociadas a un Ejecutivo/a de Cuentas Digitales (creación de contenido, social listening, reportes digitales, etc.).",
-      "El excelente nivel de inglés es un requisito cumplido y un punto fuerte del perfil, pero no compensa la falta de experiencia en el área digital y la industria requerida."
+      "Licenciado en Ciencias de la Educaci\u00f3n con experiencia docente en nivel secundario y superior.",
+      "Experiencia en coordinaci\u00f3n, planificaci\u00f3n y gesti\u00f3n educativa, con conocimiento de RCP.",
+      "Perfil comprometido y organizado, con experiencia en docencia directa.",
+      "No se detalla uso de medios audiovisuales, pero experiencia en planificaci\u00f3n y evaluaci\u00f3n."
     ]
   },
   {
-    "participant_id": "9773b830-d01a-4f7c-95d8-c7b65857ee33",
-    "score": 3,
+    "participant_id": "053c628b-2d76-442c-923d-47be198557d6",
+    "score": 70,
     "reasons": [
-      "El currículum no muestra experiencia relevante en agencias o consultoras con foco en áreas digitales, como requiere la descripción del puesto.",
-      "La experiencia profesional se centra exclusivamente en el ámbito académico (docencia universitaria, investigación, publicaciones) en Filosofía y Epistemología, no en la industria de la comunicación digital o los sectores de negocio mencionados.",
-      "No hay evidencia de experiencia en la generación de contenido para medios digitales (las publicaciones son académicas) ni de ser 'heavy user' de redes sociales.",
-      "No hay demostración de 'trato con clientes' en el contexto de una agencia de comunicación o consultora; la interacción se limita a roles académicos (alumnos, colegas).",
-      "Aunque se mencionan cursos sobre entornos virtuales de enseñanza, no reflejan experiencia en herramientas digitales ni responsabilidades asociadas a un Ejecutivo/a de Cuentas Digitales (GSuite en un contexto de agencia, social listening, reportes digitales, etc.).",
-      "No se especifica el nivel de inglés, que es un requisito excluyente."
+      "Licenciada en Psicolog\u00eda con formaci\u00f3n en educaci\u00f3n y experiencia docente en nivel secundario y superior.",
+      "Experiencia en docencia, coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "No se menciona conocimiento de RCP ni certificaci\u00f3n espec\u00edfica en Magisterio.",
+      "Perfil adecuado para docencia y acompa\u00f1amiento educativo, aunque no se detalla uso de medios audiovisuales."
     ]
   },
   {
-    "participant_id": "2b1914f9-90c6-4a97-89b0-745ce7e9fa14",
-    "score": 5,
+    "participant_id": "1cf253c6-ae9b-4756-821b-9bde7338058f",
+    "score": 30,
     "reasons": [
-      "El currículum no muestra experiencia laboral o educativa relevante en agencias o consultoras con foco en áreas digitales.",
-      "La experiencia profesional se centra en roles dentro del sector educativo (docencia, gestión educativa, administrativo) y pastoral, no relacionados con comunicaciones digitales o marketing.",
-      "No se menciona experiencia en la generación de contenido para medios digitales o manejo profesional de redes sociales.",
-      "El nivel de inglés indicado es 'básico', mientras que la descripción del puesto requiere 'intermedio/avanzado' de forma excluyente.",
-      "No se menciona el manejo de GSuite u otras herramientas digitales relevantes para el rol.",
-      "La experiencia en trato con clientes no parece corresponder al ámbito de consultoría o agencia digital solicitado."
+      "Formaci\u00f3n en Terapia Ocupacional y Licenciatura en Terapia Ocupacional, con experiencia docente universitaria.",
+      "No se evidencia experiencia como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a salud que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "8da339df-a973-4d8d-9f0c-94a17f797038",
-    "score": 3,
+    "participant_id": "00cc10ad-1465-4811-afe2-3c602f31ae5e",
+    "score": 85,
     "reasons": [
-      "El currículum no muestra experiencia laboral o educativa relevante en agencias o consultoras con foco en áreas digitales.",
-      "La experiencia profesional se centra en roles dentro del sector de salud (Terapia Ocupacional, docencia en salud), no relacionados con comunicaciones digitales o marketing.",
-      "No se menciona experiencia en la generación de contenido para medios digitales o manejo profesional de redes sociales.",
-      "Aunque menciona un curso de inglés antiguo, no especifica el nivel actual y no hay evidencia de cumplir con el requisito excluyente de nivel 'intermedio/avanzado'.",
-      "No se menciona el manejo de GSuite u otras herramientas digitales relevantes para el rol.",
-      "La experiencia en trato con clientes se relaciona con el ámbito de la salud, no con consultoría o agencia digital."
+      "Licenciada en Lengua Inglesa con doctorado en Ciencias de la Educaci\u00f3n en curso.",
+      "Amplia experiencia docente en educaci\u00f3n media y coordinaci\u00f3n de actividades educativas.",
+      "Conocimiento de RCP y experiencia en planificaci\u00f3n y evaluaci\u00f3n de clases.",
+      "Perfil muy alineado con los requisitos del puesto, incluyendo compromiso y organizaci\u00f3n."
     ]
   },
   {
-    "participant_id": "367aeb16-ff9c-4ea8-a1a9-49fc1f183b28",
-    "score": 15,
+    "participant_id": "4cd888a5-6824-4823-9748-c0cbde6c995b",
+    "score": 80,
     "reasons": [
-      "El candidato no posee experiencia relevante en agencias o consultoras con foco en áreas digitales, requisito excluyente de 2+ años.",
-      "La experiencia del candidato se centra en el ámbito educativo y de psicología, no en los sectores de negocio, consumo, tecnología o entretenimiento mencionados en la descripción.",
-      "No se detalla experiencia específica en la generación de contenido para medios digitales, monitoreo, social media listening o colaboración en campañas digitales.",
-      "Aunque posee habilidades sociales y de comunicación, la experiencia no se alinea con el manejo de cuentas de clientes en una agencia de comunicación digital.",
-      "El nivel de inglés es reportado como 'intermedio', mientras que el requisito es 'intermedio/avanzado' (excluyente)."
+      "Licenciado en Ciencias de la Educaci\u00f3n con experiencia docente y coordinador en colegio privado.",
+      "Experiencia en docencia, coordinaci\u00f3n, planificaci\u00f3n y manejo de grupos.",
+      "Conocimiento de RCP y experiencia en organizaci\u00f3n de actividades escolares.",
+      "Perfil adecuado para el puesto con compromiso y habilidades interpersonales."
     ]
   },
   {
-    "participant_id": "7aeaa552-655d-4b11-b4ca-ad62a051bea2",
-    "score": 8,
+    "participant_id": "de2e5f8e-4c67-468e-b7dc-879669309ee2",
+    "score": 90,
     "reasons": [
-      "El candidato no cumple con el requisito de 2+ años de experiencia en agencias o consultoras con foco en áreas digitales.",
-      "La experiencia laboral (encargada de dietética) y académica (estudiante de Física) no son relevantes para el puesto de Ejecutivo/a de Cuentas Digitales.",
-      "No hay evidencia de experiencia en generación de contenido para medios digitales, manejo de redes sociales a nivel profesional, o colaboración en estrategias digitales.",
-      "No se menciona manejo de GSuite de forma explícita.",
-      "El nivel de inglés es 'medio', inferior al requisito de 'intermedio/avanzado' (excluyente)."
+      "Licenciado en Ciencias de la Educaci\u00f3n con experiencia docente en niveles primario y secundario.",
+      "Amplia experiencia en docencia, coordinaci\u00f3n, planificaci\u00f3n y gesti\u00f3n educativa.",
+      "Conocimiento de RCP y habilidades interpersonales destacadas.",
+      "Perfil muy alineado con los requisitos del puesto, incluyendo compromiso, creatividad y organizaci\u00f3n."
     ]
   },
   {
-    "participant_id": "704615e0-cb62-4b82-841a-64bc61ed38dd",
-    "score": 5,
+    "participant_id": "d4905763-855f-45e1-b88d-cfc373db0d96",
+    "score": 25,
     "reasons": [
-      "La experiencia del candidato es en el área de docencia y filosofía, lo cual no se alinea con la industria y los requisitos de una agencia/consultora de comunicaciones con foco digital.",
-      "No se evidencia experiencia de más de 2 años en agencias o consultoras con foco en áreas digitales, que es un requisito excluyente.",
-      "No se menciona experiencia específica en manejo de cuentas digitales o trato con clientes en el contexto de agencias.",
-      "No hay evidencia de experiencia en generación de contenido específico para medios digitales o manejo de redes sociales como heavy user.",
-      "El nivel de inglés (requisito intermedio/avanzado) no está especificado en el currículum.",
-      "Aunque menciona 'MS OFFICE', no hay confirmación del manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.)."
+      "Formaci\u00f3n en Filosof\u00eda y Maestr\u00eda en Educaci\u00f3n, con experiencia docente universitaria.",
+      "No se evidencia experiencia como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a educaci\u00f3n superior que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "d7ff5fe5-377b-4210-8a75-99595d8987b2",
-    "score": 0,
+    "participant_id": "453e1d7e-dd4d-4853-8e09-658dcb88e34b",
+    "score": 40,
     "reasons": [
-      "El contenido del currículum no está disponible o es ilegible, impidiendo cualquier evaluación según la descripción del puesto."
+      "Licenciada en Psicolog\u00eda con Mag\u00edster en Educaci\u00f3n, experiencia docente en nivel secundario y superior.",
+      "Experiencia en docencia, coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "No se menciona conocimiento de RCP ni certificaci\u00f3n espec\u00edfica en Magisterio.",
+      "Perfil adecuado para docencia y acompa\u00f1amiento educativo, aunque no se detalla uso de medios audiovisuales."
     ]
   },
   {
-    "participant_id": "981e21dc-8e06-48fd-a13a-758394cde0e5",
-    "score": 10,
+    "participant_id": "c970a0ea-fb13-4f87-a578-047c7010258a",
+    "score": 20,
     "reasons": [
-      "El candidato tiene un fuerte background académico y educativo, con experiencia en docencia e investigación, lo cual no se alinea con la experiencia requerida en agencias o consultoras con foco digital.",
-      "Falta experiencia comprobable en la gestión de cuentas de clientes en el contexto de una agencia de comunicación/marketing digital.",
-      "La experiencia en generación de contenido mencionada (\"diseño de contenido didáctico\", \"creación de contenidos para redes sociales\" en un proyecto específico) parece orientada a la educación/divulgación académica y no a la generación de contenido para medios digitales en un contexto comercial o de consultoría de comunicación.",
-      "No se menciona manejo de GSuite específicamente, solo paquete Office y herramientas de presentación.",
-      "El nivel de inglés es intermedio, y el requisito es intermedio/avanzado excluyente.",
-      "Aunque tiene experiencia en roles que implican comunicación y manejo de grupos (docencia), no hay evidencia de la experiencia específica requerida en comunicación digital estratégica o consultoría para clientes comerciales."
+      "Formaci\u00f3n en Filosof\u00eda con experiencia docente universitaria y en investigaci\u00f3n.",
+      "No se evidencia experiencia directa como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a educaci\u00f3n superior y filosof\u00eda que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "d9393459-14de-410c-8809-3f2792678318",
-    "score": 15,
+    "participant_id": "f7052ed2-bb63-4b3e-83bf-f5748a29df0c",
+    "score": 85,
     "reasons": [
-      "El background de la candidata es principalmente en educación, ciencias ambientales y roles administrativos/académicos, no en agencias o consultoras con foco digital.",
-      "Falta experiencia comprobable en la gestión de cuentas de clientes en el contexto de una agencia de comunicación/marketing digital.",
-      "La experiencia digital parece limitada a la gestión de proyectos de e-learning y campus virtuales, lo cual no se alinea con la experiencia requerida en comunicación digital estratégica para clientes externos.",
-      "Aunque tiene un alto nivel de inglés (C1), lo cual cumple y excede el requisito, la falta de experiencia clave en el sector y rol específico es una limitación significativa.",
-      "No se menciona manejo de GSuite específicamente, solo paquete Office.",
-      "La experiencia en generación de contenido parece enfocada en el ámbito educativo (e-learning) y no en contenido para medios digitales en un contexto comercial o de consultoría de comunicación."
+      "Licenciado en Ciencias de la Educaci\u00f3n con amplia experiencia docente en niveles primario y secundario.",
+      "Experiencia en coordinaci\u00f3n, planificaci\u00f3n y gesti\u00f3n educativa, con conocimiento de RCP.",
+      "Perfil comprometido, organizado y con habilidades interpersonales.",
+      "Experiencia en liderazgo y manejo de grupos escolares."
     ]
   },
   {
-    "participant_id": "3608f6f3-f4fd-4bee-9405-4c5f5535866e",
-    "score": 10,
+    "participant_id": "1f36883b-428b-4272-9e0b-5c3f76be61e7",
+    "score": 80,
     "reasons": [
-      "No cuenta con más de 2 años de experiencia específica en agencias o consultoras con foco en áreas digitales como Ejecutivo/a de Cuentas.",
-      "La experiencia laboral principal es en docencia, capacitación, recursos humanos y gestión administrativa, no en consultoría o agencias de comunicación digital.",
-      "No se detalla experiencia en la generación de contenido para medios digitales o manejo profesional de redes sociales más allá de listarlas como conocimiento informático.",
-      "No se menciona manejo de GSuite, solo Paquete Office.",
-      "Si bien la experiencia en Mediahunters es en una industria relacionada (digital, medios, entretenimiento), el rol específico fue de Recruiter Manager, no de ejecutivo de cuentas digitales.",
-      "El objetivo profesional y la trayectoria general no se alinean con el perfil de ejecutivo/a de cuentas digitales descrito.",
-      "Cumple con el requisito de nivel de inglés avanzado.",
-      "Cumple con el requisito de vivir en CABA para modalidad híbrida."
+      "Licenciada en Psicolog\u00eda con formaci\u00f3n en educaci\u00f3n y experiencia docente en nivel secundario y superior.",
+      "Experiencia en docencia, coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "No se menciona conocimiento de RCP ni certificaci\u00f3n espec\u00edfica en Magisterio.",
+      "Perfil adecuado para docencia y acompa\u00f1amiento educativo."
     ]
   },
   {
-    "participant_id": "b959611e-99a9-4077-a18e-fb99c5c47a57",
-    "score": 0,
+    "participant_id": "bbe7f656-a9a7-480d-90c7-87d22cdb6338",
+    "score": 75,
     "reasons": [
-      "No cuenta con experiencia en agencias o consultoras de comunicación o marketing digital.",
-      "La experiencia laboral es completamente ajena al sector de negocios, consumo, tecnología o entretenimiento, enfocándose en educación, gobierno y organizaciones sin fines de lucro.",
-      "No hay experiencia en el rol de Ejecutivo/a de Cuentas ni en funciones digitales como creación de contenido para redes sociales con fines comerciales, monitoreo o elaboración de campañas digitales en el contexto de una agencia.",
-      "No se menciona manejo de GSuite, solo Paquete Office.",
-      "Aunque cumple con el requisito de nivel de inglés avanzado y ubicación en CABA, no posee ninguna de las experiencias clave requeridas para el puesto."
+      "Licenciada en Psicolog\u00eda con experiencia docente en nivel primario y secundario.",
+      "Experiencia en docencia, coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "No se menciona conocimiento de RCP ni certificaci\u00f3n espec\u00edfica en Magisterio.",
+      "Perfil adecuado para docencia y acompa\u00f1amiento educativo."
     ]
   },
   {
-    "participant_id": "47a3ec01-e972-4121-b2b3-23d5b820ac35",
-    "score": 15,
+    "participant_id": "77b88d34-2a94-47f6-bedb-23d75b088193",
+    "score": 20,
     "reasons": [
-      "La experiencia laboral (Coordinación de proyectos de capacitación en Tandem) es limitada (1 año) y no está claramente enfocada en áreas digitales o agencias/consultoras de comunicación digital, incumpliendo el requisito de >2 años de experiencia en el sector.",
-      "No se menciona experiencia específica en generación de contenido para medios digitales ni manejo de redes sociales como 'heavy user'.",
-      "Aunque menciona 'Nivel avanzado' de inglés, el CV no demuestra otras habilidades clave como manejo de GSuite, social media listening o elaboración de reportes digitales.",
-      "La experiencia previa en educación y voluntariado no se alinea con los sectores de negocio (negocios, consumo, tecnología, entretenimiento) de la consultora ni con las responsabilidades del puesto."
+      "Formaci\u00f3n en Filosof\u00eda con experiencia docente universitaria y en investigaci\u00f3n.",
+      "No se evidencia experiencia directa como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a educaci\u00f3n superior y filosof\u00eda que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "6f2e9326-fb72-4406-a7a8-fbf63072dd75",
-    "score": 5,
+    "participant_id": "749089fd-461e-413f-87da-38bff0fe3a4e",
+    "score": 30,
     "reasons": [
-      "La experiencia laboral es extensa pero se centra completamente en gestión educativa y administrativa, no cumpliendo con el requisito excluyente de experiencia en agencias o consultoras con foco en áreas digitales.",
-      "No se menciona experiencia en la creación de contenidos para redes sociales o en social media listening en el contexto de comunicación de marca o corporativa.",
-      "Aunque menciona conocimientos de 'internet y redes sociales' y herramientas como Photoshop/In Design (utilizadas para material didáctico), no demuestra experiencia en la aplicación de estas habilidades en el rol de ejecutivo de cuentas digitales.",
-      "El CV indica estudios de inglés hasta 2001 con 'Séxto año aprobado', lo cual no garantiza el nivel intermedio/avanzado requerido como excluyente para el puesto."
+      "Formaci\u00f3n en Sociolog\u00eda con especializaci\u00f3n en educaci\u00f3n, experiencia en coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "No se evidencia experiencia directa como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a gesti\u00f3n educativa que a docencia directa."
     ]
   },
   {
-    "participant_id": "22baba46-126b-43f0-bb76-d50b522fba0d",
-    "score": 12,
+    "participant_id": "00fa751f-bfe2-46f2-8d52-b627afe28565",
+    "score": 20,
     "reasons": [
-      "El candidato no presenta experiencia relevante en agencias o consultoras con foco en áreas digitales, que es un requisito clave (más de 2 años). Su experiencia se centra en educación, formación y roles administrativos/HR en la Fuerza Aérea.",
-      "No hay evidencia de experiencia en creación de contenido específicamente para medios digitales/redes sociales.",
-      "No se menciona experiencia como 'heavy user' de redes sociales ni conocimiento de los códigos de lenguaje de cada medio social.",
-      "La experiencia con plataformas virtuales (Moodle, Educativa) está orientada a e-learning, no a la gestión de cuentas de clientes o campañas digitales.",
-      "Aunque tiene 'Conocimiento Intermedio del Idioma Inglés', el puesto requiere Nivel Intermedio/Avanzado, siendo la experiencia clave el factor de mayor peso en la baja puntuación."
+      "Formaci\u00f3n en Filosof\u00eda con experiencia docente universitaria y en investigaci\u00f3n.",
+      "No se evidencia experiencia directa como maestro ni formaci\u00f3n en Magisterio.",
+      "No se menciona conocimiento de RCP ni experiencia en planificaci\u00f3n o uso de medios audiovisuales.",
+      "Perfil m\u00e1s orientado a educaci\u00f3n superior y filosof\u00eda que a educaci\u00f3n escolar."
     ]
   },
   {
-    "participant_id": "2bc46e3b-6fbe-4754-b56d-ed3e37e7c471",
-    "score": 23,
+    "participant_id": "4592fd7b-b0e1-4a72-bf01-18fc4ca2ffa3",
+    "score": 85,
     "reasons": [
-      "La candidata no presenta experiencia relevante en agencias o consultoras con foco en áreas digitales. Su trayectoria profesional principal es en derecho (Abogada, Escribana, consultoría legal) y educación/gestión educativa.",
-      "Aunque tiene experiencia en consultoría, es en el ámbito legal y no digital.",
-      "Tiene experiencia en redacción (documentos, informes, columnas), pero no específica en creación de contenido para medios digitales o redes sociales.",
-      "No se menciona experiencia como 'heavy user' de redes sociales ni conocimiento de los códigos de lenguaje de cada medio social.",
-      "Si bien tiene experiencia en coordinación de proyectos y trato con stakeholders (docentes, académicos, etc.), no es directamente en el rol de ejecutivo/a de cuentas digitales gestionando clientes de marketing.",
-      "Cumple el requisito excluyente de inglés (Manejo avanzado oral y escrito)."
-    ]
-  },
-  {
-    "participant_id": "cc12c366-60f4-4f2c-aec5-bb0784363be3",
-    "score": 0,
-    "reasons": [
-      "El archivo del currículum es ilegible o corrupto y no pudo ser evaluado."
-    ]
-  },
-  {
-    "participant_id": "e6c85eff-40f1-464f-ba79-d4b8fc67439d",
-    "score": 10,
-    "reasons": [
-      "La candidata cuenta con amplia experiencia en educación y roles académicos/administrativos, lo cual no se alinea con los requisitos de experiencia en agencias o consultoras con foco en áreas digitales.",
-      "No se menciona experiencia específica en la generación de contenido para medios digitales o manejo de redes sociales como heavy user, aspectos clave del puesto.",
-      "Aunque tiene experiencia en 'consultoría', esta es en el ámbito educativo, no en consultoría de comunicaciones digitales o marketing.",
-      "Si bien tiene experiencia en redacción (documentos pedagógicos), no hay evidencia de conocimiento de los códigos de lenguaje específicos de cada medio social, requerido en la descripción.",
-      "La experiencia en 'trato con clientes' parece estar en un contexto académico/educativo, no en la gestión de cuentas de clientes de una agencia de comunicaciones.",
-      "No se menciona manejo de GSuite, aunque tiene buen nivel de inglés que es excluyente."
-    ]
-  },
-  {
-    "participant_id": "6f999c75-b6db-44e2-878a-edf63816f7b6",
-    "score": 0,
-    "reasons": [
-      "El archivo del currículum no es legible o está corrupto, por lo que no se pudo evaluar la adecuación del candidato a la descripción del puesto."
-    ]
-  },
-  {
-    "participant_id": "9198c175-3927-4511-aed5-c7af59584deb",
-    "score": 8,
-    "reasons": [
-      "El currículum muestra una amplia experiencia y formación, pero casi exclusivamente en el sector educativo y académico (docencia, consultoría pedagógica, investigación educativa).",
-      "No se evidencia experiencia en agencias o consultoras con foco en áreas digitales.",
-      "No hay mención de experiencia en generación de contenido para medios digitales o manejo de redes sociales para fines profesionales.",
-      "La experiencia como consultora se centra en temas educativos, no en comunicaciones o marketing digital para los sectores buscados (negocios, consumo, tecnología, entretenimiento).",
-      "Aunque posee el First Certificate in English, cumpliendo el requisito de idioma, la falta de experiencia relevante en la industria y funciones digitales es muy significativa."
-    ]
-  },
-  {
-    "participant_id": "d3257a05-99a4-42a5-a7e0-5719560e1ead",
-    "score": 0,
-    "reasons": [
-      "El texto del currículum para CV #2 no fue proporcionado."
-    ]
-  },
-  {
-    "participant_id": "0994cc12-5160-4124-b02d-8b603892b0b6",
-    "score": 10,
-    "reasons": [
-      "El currículum se centra casi exclusivamente en experiencia y formación en el sector educativo, no en agencias o consultoras con foco en áreas digitales, lo cual es un requisito clave.",
-      "No se evidencia la experiencia de más de 2 años en agencias o consultoras digitales solicitada.",
-      "La experiencia en generación de contenido digital y manejo de redes sociales mencionada está ligada a contextos educativos o personales, no al ámbito profesional de marketing digital para clientes de negocio, consumo, tecnología o entretenimiento.",
-      "No se menciona manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.), una herramienta requerida.",
-      "No se especifica el nivel de inglés, que es un requisito excluyente (nivel intermedio/avanzado)."
-    ]
-  },
-  {
-    "participant_id": "538b2d67-526d-4955-833a-6ef755bdfc9c",
-    "score": 15,
-    "reasons": [
-      "El currículum muestra una carrera centrada en el ámbito educativo, sin experiencia relevante en agencias o consultoras con foco en áreas digitales.",
-      "No cumple con el requisito excluyente de tener más de 2 años de experiencia en agencias o consultoras con foco digital.",
-      "Aunque menciona manejo de redes sociales y atención por e-mail/redes sociales en un rol (EIDEC), esta experiencia es limitada (4 meses) y en un contexto educativo, no en marketing digital para clientes de negocio/consumo/tecnología/entretenimiento.",
-      "La experiencia como 'Editor free lance de plataforma digital' se refiere a la gestión de contenido educativo en una plataforma, no a la generación de contenido de marketing digital.",
-      "No se especifica manejo de GSuite (Drive, Gmail, Sheet, Docs, etc.), una herramienta requerida.",
-      "Indica nivel intermedio de inglés, lo cual podría no alcanzar el nivel 'intermedio/avanzado' excluyente solicitado en la descripción."
-    ]
-  },
-  {
-    "participant_id": "932adf11-9f36-44d9-9e53-81cb84a88235",
-    "score": 5,
-    "reasons": [
-      "El perfil del candidato es de Licenciado en Psicología con experiencia en ámbitos clínicos, institucionales y educativos, lo cual no se alinea con el requisito de experiencia en agencias o consultoras con foco en áreas digitales.",
-      "La experiencia laboral no menciona roles de ejecutivo de cuentas digitales, manejo de clientes en este contexto, generación de contenido para medios digitales, o monitoreo y social media listening.",
-      "No hay evidencia de manejo profesional de GSuite o de ser 'heavy user' de redes sociales en el contexto de la descripción del puesto.",
-      "Aunque se menciona conocimiento de idiomas (Inglés y Francés), no se especifica el nivel de inglés requerido ('intermedio/avanzado') que es excluyente para la posición."
-    ]
-  },
-  {
-    "participant_id": "5bb44451-3b2f-44e5-a0c2-eded42738581",
-    "score": 8,
-    "reasons": [
-      "El perfil y la experiencia del candidato se centran en el campo de la educación y gestión de proyectos educativos, lo cual no cumple con el requisito de experiencia en agencias o consultoras con foco en áreas digitales.",
-      "La experiencia laboral no incluye roles de ejecutivo de cuentas digitales, atención al cliente en este contexto, creación de contenido para redes sociales o social media listening.",
-      "No se menciona específicamente manejo profesional de GSuite en un contexto relevante para la posición, aunque se lista manejo básico de Excel y entorno Windows.",
-      "Cumple con el requisito excluyente de nivel de inglés, indicando 'Nivel Avanzado'.",
-      "Aunque tiene habilidades de consultoría, no es en el área digital o de comunicación requerida por el puesto."
+      "Licenciada en Psicolog\u00eda con Mag\u00edster en Educaci\u00f3n, experiencia docente en nivel secundario y superior.",
+      "Experiencia en docencia, coordinaci\u00f3n y gesti\u00f3n educativa.",
+      "Conocimiento de RCP y habilidades interpersonales destacadas.",
+      "Perfil muy alineado con los requisitos del puesto, incluyendo compromiso y organizaci\u00f3n."
     ]
   }
 ]
