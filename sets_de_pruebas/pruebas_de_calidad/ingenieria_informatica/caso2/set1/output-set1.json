@@ -1,13 +1,117 @@
 [
   {
-    "participant_id": "fcab5042-8e84-4e57-add4-be462d295b85",
+    "participant_id": "0b49ce9c-fd49-47b9-a7a4-dda5196cfd16",
     "score": 0,
     "reasons": [
-      "El candidato es dise\u00f1ador gr\u00e1fico, no tiene experiencia en desarrollo web ni en .NET Framework.",
-      "No se menciona experiencia con VB.NET, ASP.NET, SQL Server ni creaci\u00f3n de API REST.",
-      "No hay evidencia de conocimientos en Git, Jira, AWS o tecnolog\u00edas DevOps.",
-      "No se indica manejo avanzado de ingl\u00e9s ni experiencia en facturaci\u00f3n, procesamiento de pagos o software contable.",
-      "No cumple con los requisitos t\u00e9cnicos ni con la industria requerida para el puesto."
+      "El candidato es Diseñador Gráfico, no pertenece a la industria de desarrollo web o tecnología.",
+      "No tiene experiencia en desarrollo con .NET Framework, VB.NET, ASP.NET ni en creación de API REST.",
+      "No se menciona experiencia con SQL Server, Git, Jira, AWS ni tecnologías DevOps.",
+      "No cumple con el requisito de inglés avanzado para el puesto.",
+      "No tiene experiencia ni conocimientos en facturación, procesamiento de pagos o software de contabilidad financiera."
+    ]
+  },
+  {
+    "participant_id": "70bdeca6-f1f3-4746-90dc-3d765aa21b7b",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no pertenece a la industria de desarrollo web o tecnología.",
+      "No se menciona experiencia en .NET Framework, VB.NET, ASP.NET, SQL Server ni creación de API REST.",
+      "No se evidencia conocimiento en Git, Jira, AWS o tecnologías DevOps.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El nivel de inglés es intermedio, no avanzado.",
+      "No cumple con los requisitos técnicos ni con la experiencia solicitada para el puesto."
+    ]
+  },
+  {
+    "participant_id": "67f81fa1-0651-4f6f-92dd-51b574152595",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS o tecnologías DevOps.",
+      "No se indica experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El nivel de inglés es intermedio, no avanzado como se requiere.",
+      "No cumple con los requisitos técnicos ni con la industria solicitada."
+    ]
+  },
+  {
+    "participant_id": "2e294c0c-1351-4fe2-9e24-e39709648522",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
+      "No hay evidencia de conocimiento en Git, Jira, AWS o tecnologías DevOps.",
+      "No se indica nivel avanzado de inglés, solo un nivel intermedio.",
+      "No tiene experiencia ni conocimientos en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No cumple con los requisitos técnicos ni con la industria requerida para el puesto."
+    ]
+  },
+  {
+    "participant_id": "a3cbe8bc-b402-4731-8b47-9769edcc1367",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no pertenece a la industria de desarrollo web o tecnología .NET.",
+      "No se evidencia experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST ni manejo de bases de datos SQL Server.",
+      "No se menciona conocimiento en Git, Jira, AWS o tecnologías DevOps.",
+      "No se indica nivel avanzado de inglés.",
+      "No hay experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera."
+    ]
+  },
+  {
+    "participant_id": "a8f9f824-8bd4-487a-99cb-a58dfd2c6f26",
+    "score": 0,
+    "reasons": [
+      "El candidato es diseñador gráfico, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni manejo de bases de datos SQL Server.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS o tecnologías DevOps.",
+      "No se indica nivel avanzado de inglés.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No cumple con los requisitos técnicos ni con la industria requerida para el puesto."
+    ]
+  },
+  {
+    "participant_id": "1b0c0a86-5edb-4195-95cb-57902532f882",
+    "score": 0,
+    "reasons": [
+      "El candidato es diseñador gráfico, no pertenece a la industria de desarrollo web o tecnología.",
+      "No se menciona experiencia en .NET Framework, VB.NET, ASP.NET, SQL Server ni creación de API REST.",
+      "No se evidencia conocimiento en Git, Jira, AWS ni tecnologías DevOps.",
+      "No se menciona manejo de inglés avanzado ni experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No cumple con los requisitos técnicos ni con la experiencia solicitada para el puesto."
+    ]
+  },
+  {
+    "participant_id": "0ddf65b2-6888-47d6-8f53-6a4bdde1fb2b",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni manejo de bases de datos SQL Server.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS, DevOps o facturación y procesamiento de pagos.",
+      "El perfil no cumple con los requisitos técnicos ni de industria solicitados para el puesto de Desarrollador Full Stack .NET."
+    ]
+  },
+  {
+    "participant_id": "76b7861b-703d-41e2-968f-31ccb057db60",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no pertenece a la industria de desarrollo web o tecnología.",
+      "No se evidencia experiencia en .NET Framework, VB.NET, ASP.NET, SQL Server ni creación de API REST.",
+      "No se menciona experiencia con Git, Jira, AWS ni tecnologías DevOps.",
+      "No se indica nivel avanzado de inglés.",
+      "No hay experiencia relacionada con facturación, procesamiento de pagos o software de contabilidad financiera."
+    ]
+  },
+  {
+    "participant_id": "0b8c5eca-dbbb-4668-87b2-0c9394f49a99",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñador Gráfico, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
+      "No hay evidencia de conocimiento en Git, Jira, AWS o tecnologías DevOps.",
+      "No se menciona manejo de facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El nivel de inglés es intermedio, no avanzado.",
+      "No cumple con los requisitos técnicos ni con la industria requerida para el puesto."
     ]
   }
 ]

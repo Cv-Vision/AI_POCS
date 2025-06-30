@@ -1,18 +1,165 @@
 [
   {
-    "participant_id": "5432e725-4671-438d-8bf7-e723ed4bcf7d",
-    "score": 65,
+    "participant_id": "205e4c1f-061b-40de-a121-af6ca6514888",
+    "score": 40,
     "reasons": [
-      "Cumple con el requisito de carrera en curso en Ingenier\u00eda en Inform\u00e1tica.",
-      "Posee conocimientos b\u00e1sicos en varios lenguajes de programaci\u00f3n (Python, Java, JavaScript, TypeScript).",
-      "Tiene experiencia en proyectos acad\u00e9micos relevantes y uso de tecnolog\u00edas modernas como Spring, Docker, AWS y bases de datos PostgreSQL.",
-      "Demuestra capacidad de aprendizaje, trabajo en equipo y motivaci\u00f3n, adem\u00e1s de habilidades comunicativas claras.",
-      "Cuenta con certificaciones y cursos relacionados con desarrollo de software.",
-      "Ingl\u00e9s a nivel biling\u00fce, adecuado para lectura de documentaci\u00f3n t\u00e9cnica.",
-      "No cumple con los requisitos t\u00e9cnicos espec\u00edficos del puesto (m\u00e1s de 5 a\u00f1os en .NET Framework, experiencia en VB.NET, ASP.NET, SQL Server, creaci\u00f3n de API REST con .NET, uso de Jira, AWS espec\u00edfico y DevOps).",
-      "No tiene experiencia formal en desarrollo web con tecnolog\u00edas .NET ni en software de contabilidad financiera.",
-      "Edad no especificada, pero probable dentro del rango preferido.",
-      "En resumen, es un candidato con buen potencial t\u00e9cnico y acad\u00e9mico para un puesto junior, pero no adecuado para el puesto descrito que requiere experiencia senior y conocimientos espec\u00edficos en .NET y tecnolog\u00edas relacionadas."
+      "Cumple con los requisitos adicionales para Ingeniero/a Informático/a Junior: está estudiando Ingeniería en Informática, tiene conocimientos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript), familiaridad con bases de datos (PostgreSQL, Redis) y servicios en la nube (AWS, Microsoft Azure).",
+      "Posee certificaciones y cursos relacionados con desarrollo de software y habilidades digitales.",
+      "Demuestra habilidades blandas adecuadas como aprendizaje rápido, trabajo en equipo y motivación.",
+      "No cumple con los requisitos técnicos específicos del puesto de Desarrollador/a Full Stack .NET: no tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, SQL Server, ni en creación de API REST con estas tecnologías.",
+      "No tiene experiencia en herramientas específicas como Jira ni en tecnologías DevOps mencionadas.",
+      "Su nivel de inglés es bilingüe, pero no se especifica si es avanzado técnico, aunque es probable que cumpla el requisito básico/intermedio para el puesto junior.",
+      "No se menciona experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No cumple con la experiencia requerida para el puesto (más de 5 años en desarrollo web con .NET y más de 2 años en creación de API REST).",
+      "El perfil es adecuado para un puesto junior, pero no para el puesto senior y especializado que se describe."
+    ]
+  },
+  {
+    "participant_id": "e540256f-b77f-4576-9269-79497fcde059",
+    "score": 30,
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática, lo que cumple con el requisito académico para un perfil junior.",
+      "Tiene conocimientos en lenguajes de programación como Python, Java y JavaScript, y experiencia con bases de datos PostgreSQL, lo cual es positivo para un perfil junior.",
+      "Cuenta con experiencia en proyectos académicos y uso de herramientas como Docker, AWS y Spring, mostrando motivación y capacidad de aprendizaje.",
+      "Inglés a nivel bilingüe, adecuado para lectura de documentación técnica.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos técnicos excluyentes para el puesto.",
+      "No menciona experiencia en creación de API REST con .NET ni en servicios específicos de AWS requeridos (EC2, ALB, S3).",
+      "No se evidencia conocimiento en Jira ni en herramientas DevOps específicas requeridas.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "El perfil es claramente junior y no cumple con los requisitos técnicos mínimos para el puesto de Desarrollador Full Stack .NET con experiencia avanzada."
+    ]
+  },
+  {
+    "participant_id": "4438f6f9-c17d-4240-9330-40a47e06b0d4",
+    "score": 40,
+    "reasons": [
+      "Es estudiante de Ingeniería en Informática, cumpliendo con el requisito de carrera en curso.",
+      "Tiene conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Familiaridad con bases de datos PostgreSQL y Redis, aunque no menciona SQL Server específicamente.",
+      "Conocimiento y experiencia con Git no está explícitamente mencionado, aunque usa Docker y servicios en la nube (AWS, Microsoft Azure).",
+      "Inglés a nivel bilingüe, cumple con el requisito de inglés técnico básico/intermedio.",
+      "No tiene experiencia formal ni más de 5 años en desarrollo web con .NET Framework ni experiencia en creación de API REST, que son requisitos excluyentes para el puesto.",
+      "No menciona experiencia con .NET Framework, VB.NET, ASP.NET, SQL Server, Jira, ni tecnologías DevOps, que son requisitos técnicos clave.",
+      "No se menciona conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Tiene proyectos académicos y certificaciones que demuestran motivación y capacidad de aprendizaje.",
+      "Edad no especificada, pero probable dentro del rango preferido por ser estudiante reciente."
+    ]
+  },
+  {
+    "participant_id": "2318c7af-fce3-404c-bc28-f0975f07403f",
+    "score": 40,
+    "reasons": [
+      "Cumple con el requisito de carrera en curso en Ingeniería en Informática.",
+      "Tiene conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Familiaridad con servicios en la nube (AWS, Microsoft Azure) y bases de datos (PostgreSQL, Redis).",
+      "Cuenta con certificaciones y cursos relacionados a desarrollo de software.",
+      "Demuestra capacidad de aprendizaje, trabajo en equipo y motivación.",
+      "Inglés a nivel bilingüe, adecuado para lectura de documentación técnica.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, ni SQL Server, que son requisitos excluyentes para el puesto.",
+      "No se menciona experiencia en creación de API REST ni en herramientas de gestión de proyectos como Jira.",
+      "No hay evidencia de manejo de tecnologías DevOps ni armado de planes de prueba.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Edad no especificada, pero probable dentro del rango preferido."
+    ]
+  },
+  {
+    "participant_id": "a838f530-524c-4570-a5e8-f4ae2b7aaf47",
+    "score": 40,
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática, cumpliendo con el requisito de carrera en curso.",
+      "Posee conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript), lo cual es valorado.",
+      "Tiene experiencia en proyectos académicos y uso de tecnologías como AWS, Docker, PostgreSQL, GitHub (implícito por uso de Docker y proyectos), lo cual es positivo.",
+      "Inglés a nivel bilingüe, adecuado para lectura de documentación técnica.",
+      "No cumple con los requisitos técnicos específicos del puesto: no tiene experiencia en .NET Framework, VB.NET, ASP.NET, SQL Server ni creación de API REST con esas tecnologías.",
+      "No menciona experiencia con Jira ni con tecnologías DevOps específicas requeridas.",
+      "No tiene experiencia laboral formal ni más de 5 años en desarrollo web con .NET, ni más de 2 años en creación de API REST, que son excluyentes para el puesto.",
+      "No se menciona conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El perfil es más adecuado para un puesto de Ingeniero Informático Junior que para el puesto solicitado de Desarrollador Full Stack .NET Senior."
+    ]
+  },
+  {
+    "participant_id": "717a8f74-4c6a-4e04-b2e7-f52d875a3d83",
+    "score": 40,
+    "reasons": [
+      "Cumple con el requisito de carrera en curso en Ingeniería en Informática.",
+      "Tiene conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Familiaridad con Git no mencionada explícitamente, pero se asume por el manejo de proyectos y tecnologías modernas.",
+      "Conocimientos básicos en bases de datos PostgreSQL y Redis, aunque no en SQL Server requerido.",
+      "Experiencia en proyectos académicos relevantes y cursos relacionados con desarrollo de software.",
+      "Inglés a nivel bilingüe, cumple con el requisito de inglés técnico básico/intermedio.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, SQL Server, ni en creación de API REST con estas tecnologías.",
+      "No menciona experiencia con Jira ni con tecnologías DevOps específicas requeridas.",
+      "No se evidencia experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No cumple con la experiencia técnica requerida para el puesto de Desarrollador Full Stack .NET.",
+      "Perfil más adecuado para un puesto de Ingeniero Informático Junior que para el puesto descrito."
+    ]
+  },
+  {
+    "participant_id": "5fcc19a3-cea1-420b-a19a-286a7a30daa5",
+    "score": 40,
+    "reasons": [
+      "Cumple con el requisito de estar cursando Ingeniería en Informática.",
+      "Tiene conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Familiaridad con bases de datos PostgreSQL y Redis, aunque no menciona SQL Server específicamente.",
+      "Conocimiento básico de servicios en la nube (AWS y Microsoft Azure).",
+      "Experiencia en proyectos académicos y cursos relacionados con desarrollo de software.",
+      "Inglés a nivel bilingüe, adecuado para lectura de documentación técnica.",
+      "Demuestra capacidad de aprendizaje y trabajo en equipo.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, ni en creación de API REST con estas tecnologías, que son requisitos excluyentes para el puesto.",
+      "No menciona experiencia con Git, Jira, ni tecnologías DevOps.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No cumple con la experiencia técnica requerida para el puesto de Desarrollador Full Stack .NET."
+    ]
+  },
+  {
+    "participant_id": "75cacb56-2c91-460a-a0ea-61d134cf62b5",
+    "score": 40,
+    "reasons": [
+      "Cumple con el requisito de carrera en curso en Ingeniería en Informática.",
+      "Tiene conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Familiaridad con Git no mencionada explícitamente, pero se evidencia experiencia con herramientas de desarrollo y control de versiones en proyectos académicos.",
+      "Conocimientos básicos en bases de datos PostgreSQL y Redis, aunque no en SQL Server, que es requerido para el puesto.",
+      "Experiencia en proyectos académicos y cursos relacionados a desarrollo de software.",
+      "Inglés a nivel bilingüe, aunque no se especifica si es avanzado técnico, cumple con el requisito mínimo para lectura de documentación técnica.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, SQL Server, ni en creación de API REST con estas tecnologías, que son requisitos excluyentes para el puesto.",
+      "No se menciona experiencia con Jira, ni con servicios AWS específicos requeridos (EC2, ALB, S3).",
+      "No se evidencia conocimiento ni experiencia en facturación, procesamiento de pagos, software de contabilidad financiera ni tecnologías DevOps.",
+      "Edad no especificada, pero probable dentro del rango preferido por ser estudiante.",
+      "Perfil adecuado para un puesto de Ingeniero/a Informático/a Junior, pero no para el puesto específico de Desarrollador Full Stack .NET con experiencia avanzada requerida."
+    ]
+  },
+  {
+    "participant_id": "1ba93425-1036-4267-a202-b5aac63e9e77",
+    "score": 30,
+    "reasons": [
+      "El candidato es estudiante de Ingeniería en Informática, cumpliendo con el requisito académico.",
+      "Posee conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Tiene experiencia en proyectos académicos y uso de servicios en la nube (AWS, Microsoft Azure).",
+      "Cuenta con conocimientos básicos en bases de datos (PostgreSQL, Redis).",
+      "Muestra habilidades blandas adecuadas como aprendizaje rápido, trabajo en equipo y motivación.",
+      "Inglés a nivel bilingüe, adecuado para lectura técnica.",
+      "No tiene experiencia laboral formal ni más de 5 años en desarrollo web con .NET Framework, que es un requisito excluyente para el puesto.",
+      "No se menciona experiencia con .NET Framework, VB.NET, ASP.NET, SQL Server ni creación de API REST con estas tecnologías.",
+      "No se evidencia conocimiento en Jira ni en tecnologías DevOps específicas requeridas.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El perfil es más adecuado para un puesto de Ingeniero Informático Junior, no para un desarrollador Full Stack .NET con experiencia avanzada."
+    ]
+  },
+  {
+    "participant_id": "9c05a800-9f4f-4b1d-91cd-a1e79d6d3494",
+    "score": 40,
+    "reasons": [
+      "Cumple con el requisito de estar cursando Ingeniería en Informática.",
+      "Tiene conocimientos básicos en varios lenguajes de programación (Python, Java, JavaScript, TypeScript).",
+      "Posee experiencia en proyectos académicos y uso de tecnologías relacionadas (Spring, Docker, AWS, PostgreSQL).",
+      "Muestra capacidad de aprendizaje, trabajo en equipo y motivación, lo cual es valorado para un perfil junior.",
+      "Tiene conocimientos básicos de bases de datos (PostgreSQL, Redis) y familiaridad con servicios en la nube (AWS, Azure).",
+      "Inglés a nivel bilingüe, adecuado para lectura de documentación técnica.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, SQL Server, ni en creación de API REST con esas tecnologías, que son requisitos excluyentes para el puesto.",
+      "No menciona experiencia con Git, GitHub ni Jira, herramientas clave para el puesto.",
+      "No tiene experiencia en tecnologías DevOps ni en armado de planes de prueba.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "El perfil es claramente junior y no cumple con la experiencia técnica requerida para el puesto de Desarrollador Full Stack .NET."
     ]
   }
 ]

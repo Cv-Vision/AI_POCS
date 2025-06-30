@@ -1,17 +1,136 @@
 [
   {
-    "participant_id": "8b540d46-1ec9-4f25-bd93-5baabc3fa7e1",
+    "participant_id": "2af7d34b-3655-40d5-9f6f-3b72bfc29ca4",
+    "score": 20,
+    "reasons": [
+      "No cumple con el requisito de más de 5 años de experiencia en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No se menciona experiencia en creación de API REST ni en migración de aplicaciones VBA a web.",
+      "No se evidencia conocimiento o manejo de AWS (EC2, ALB, S3) ni herramientas de gestión de proyectos como Jira.",
+      "Aunque tiene experiencia con Git y Docker, no se menciona experiencia en tecnologías DevOps específicas.",
+      "No se menciona experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "Inglés avanzado está presente, y algunas habilidades interpersonales y organizativas se infieren, pero la experiencia técnica clave requerida no está cubierta."
+    ]
+  },
+  {
+    "participant_id": "f62a7928-26d4-4daa-9ba6-88e1b20fd5cb",
     "score": 10,
     "reasons": [
-      "No cumple con la experiencia m\u00ednima requerida de m\u00e1s de 5 a\u00f1os en desarrollo web con .NET Framework.",
-      "No tiene experiencia demostrada en VB.NET, formularios web ASP.NET ni en creaci\u00f3n de API REST.",
-      "No menciona manejo de bases de datos SQL Server, solo SQL gen\u00e9rico.",
-      "No evidencia conocimiento en herramientas de gesti\u00f3n de proyectos como Jira, solo Git.",
-      "No menciona experiencia con servicios AWS como EC2, ALB, S3.",
-      "No tiene experiencia en armado de planes de prueba ni en facturaci\u00f3n, procesamiento de pagos o software de contabilidad financiera.",
-      "No se menciona conocimiento en tecnolog\u00edas DevOps espec\u00edficas para automatizaci\u00f3n de despliegues.",
-      "Ingl\u00e9s avanzado s\u00ed est\u00e1 presente, pero es insuficiente para compensar la falta de experiencia t\u00e9cnica y sectorial.",
-      "El candidato est\u00e1 en formaci\u00f3n universitaria y tiene experiencia limitada a proyectos acad\u00e9micos y asistencias, no en la industria requerida."
+      "No cumple con la experiencia mínima requerida de más de 5 años en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No tiene experiencia demostrada en creación de API REST con .NET.",
+      "No se menciona experiencia con tecnologías específicas requeridas como VB.NET, formularios web ASP.NET, ni experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No se evidencia manejo de AWS (EC2, ALB, S3) ni tecnologías DevOps específicas.",
+      "Aunque tiene inglés avanzado y conocimientos en Git, no cumple con los requisitos técnicos clave del puesto.",
+      "Posee habilidades técnicas y proyectos en otros lenguajes y frameworks (Java, Kotlin, React, Azure) que no son relevantes para el puesto.",
+      "No se menciona experiencia laboral formal en la industria, solo proyectos académicos y asistente de docencia."
+    ]
+  },
+  {
+    "participant_id": "aaeb903d-b897-4ce3-88c7-481f03081913",
+    "score": 20,
+    "reasons": [
+      "No tiene experiencia de más de 5 años en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No menciona experiencia en creación de API REST ni en migración de aplicaciones VBA a web.",
+      "No evidencia conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No menciona manejo de servicios AWS como EC2, ALB, S3.",
+      "No indica experiencia con Jira ni armado de planes de prueba.",
+      "Aunque tiene inglés avanzado y conocimientos en Git, sus tecnologías principales son Java, Javascript, Typescript y frameworks modernos, no .NET.",
+      "No se evidencia experiencia laboral relevante en el área, solo proyectos académicos y asistente de cátedra."
+    ]
+  },
+  {
+    "participant_id": "a61ecbb2-edd1-430a-a508-39b648b3ef8a",
+    "score": 20,
+    "reasons": [
+      "No cumple con la experiencia mínima requerida de más de 5 años en desarrollo web con .NET Framework.",
+      "No se menciona experiencia con VB.NET, formularios web ASP.NET ni creación de API REST.",
+      "No se evidencia conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se menciona experiencia con AWS (EC2, ALB, S3) ni tecnologías DevOps específicas.",
+      "Aunque tiene inglés avanzado, sus habilidades técnicas están más orientadas a Java, Javascript, Typescript y otras tecnologías no solicitadas.",
+      "Tiene habilidades en Git y gestión de proyectos (GitHub Issues), pero no se menciona Jira.",
+      "No se evidencia experiencia laboral relevante en la industria ni en el tipo de desarrollo requerido."
+    ]
+  },
+  {
+    "participant_id": "723cab6a-edd5-4917-a11e-c0c98c21b007",
+    "score": 20,
+    "reasons": [
+      "No tiene experiencia profesional en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No evidencia experiencia en creación de API REST, solo menciona microservicios con Kotlin y SpringBoot.",
+      "No menciona manejo de AWS ni servicios específicos como EC2, ALB o S3.",
+      "No indica experiencia en armado de planes de prueba ni en tecnologías DevOps específicas para automatización de despliegues.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos clave del puesto.",
+      "Tiene habilidades organizativas y de trabajo en equipo implícitas, pero no suficientes para compensar la falta de experiencia técnica requerida."
+    ]
+  },
+  {
+    "participant_id": "4f7a65b9-7dd2-4219-a31d-141d64dab4d9",
+    "score": 20,
+    "reasons": [
+      "No se evidencia experiencia profesional de más de 5 años en desarrollo web con .NET Framework, VB.NET, ASP.NET o SQL Server.",
+      "No se menciona experiencia en creación de API REST con más de 2 años.",
+      "No hay evidencia de manejo de servicios AWS como EC2, ALB o S3.",
+      "No se menciona experiencia en armado de planes de prueba ni en tecnologías DevOps específicas.",
+      "No se menciona conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "El candidato tiene inglés avanzado, uso de Git y experiencia en gestión de proyectos con GitHub Issues, pero no con Jira.",
+      "El candidato tiene habilidades técnicas en otros lenguajes y tecnologías (Java, Kotlin, React, Docker) pero no en el stack requerido (.NET Framework, VB.NET, ASP.NET).",
+      "El candidato está en formación universitaria y tiene experiencia académica y proyectos estudiantiles, pero no experiencia laboral relevante para el puesto."
+    ]
+  },
+  {
+    "participant_id": "d1f94023-6b69-478a-a18e-fd0b68506334",
+    "score": 20,
+    "reasons": [
+      "No cumple con la experiencia mínima requerida de más de 5 años en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No se menciona experiencia en creación de API REST, solo desarrollo con tecnologías distintas (Java, Kotlin, React, Express).",
+      "No hay evidencia de dominio de bases de datos SQL Server, solo SQL genérico.",
+      "No se menciona experiencia con herramientas de gestión de proyectos como Jira, solo Git y Github.",
+      "No se menciona experiencia con servicios AWS (EC2, ALB, S3).",
+      "No se menciona conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se menciona experiencia en tecnologías DevOps más allá de uso básico de Docker y Github Actions.",
+      "El candidato tiene inglés avanzado, lo cual es positivo.",
+      "El candidato muestra habilidades técnicas y de aprendizaje, pero no alineadas con los requisitos específicos del puesto."
+    ]
+  },
+  {
+    "participant_id": "c091997d-b927-4389-a099-283e3c28a974",
+    "score": 20,
+    "reasons": [
+      "No cumple con el requisito de más de 5 años de experiencia en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No se menciona experiencia en creación de API REST con .NET.",
+      "No hay evidencia de manejo de bases de datos SQL Server, solo SQL genérico.",
+      "No se menciona experiencia con herramientas de gestión de proyectos como Jira.",
+      "No se menciona experiencia con servicios AWS como EC2, ALB, S3.",
+      "No se menciona armado de planes de prueba.",
+      "No se menciona conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se menciona conocimiento en tecnologías DevOps, aunque tiene algo de experiencia con Docker y Github Actions.",
+      "El candidato tiene inglés avanzado, habilidades de Git y algunas habilidades técnicas, pero no en la tecnología específica requerida.",
+      "El candidato tiene experiencia académica y proyectos en otras tecnologías (Java, Kotlin, React, Azure) pero no en el stack requerido."
+    ]
+  },
+  {
+    "participant_id": "728a8cbd-4f33-4002-8461-99dcb4ed46c2",
+    "score": 20,
+    "reasons": [
+      "No cumple con la experiencia mínima requerida de más de 5 años en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No se menciona experiencia en creación de API REST ni en migración de aplicaciones VBA a web o API ASP.NET.",
+      "No se evidencia conocimiento o manejo de AWS (EC2, ALB, S3) ni herramientas de gestión de proyectos como Jira.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No se indica conocimiento en tecnologías DevOps más allá de uso básico de Docker y Github Actions.",
+      "El candidato tiene inglés avanzado, habilidades interpersonales y manejo de Git, pero su experiencia técnica no se ajusta al perfil requerido."
+    ]
+  },
+  {
+    "participant_id": "9e5c1cbb-217b-4fdd-a6c4-b0f080ffaf06",
+    "score": 20,
+    "reasons": [
+      "No tiene experiencia profesional de más de 5 años en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No evidencia experiencia en creación de API REST por más de 2 años.",
+      "No menciona manejo de AWS ni servicios específicos como EC2, ALB o S3.",
+      "No menciona experiencia en armado de planes de prueba ni en tecnologías DevOps.",
+      "Aunque tiene inglés avanzado, sus habilidades técnicas y experiencia no coinciden con los requisitos específicos del puesto.",
+      "Tiene experiencia en Git y gestión de proyectos con GitHub Issues, pero no menciona Jira.",
+      "No se menciona conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "Sus proyectos y tecnologías están orientados a Java, Kotlin, React, Express y otras tecnologías no solicitadas."
     ]
   }
 ]

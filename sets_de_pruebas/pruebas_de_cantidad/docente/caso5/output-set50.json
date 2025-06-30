@@ -337,6 +337,24 @@
     ]
   },
   {
+    "participant_id": "501c5db2-bb8c-4275-ac83-ebd65c97e51b",
+    "score": 35,
+    "reasons": [
+      "El currículum presenta una sólida formación académica en Sociología con especializaciones y diplomaturas en el campo de la Educación, lo cual es relevante para entender el contexto educativo.",
+      "La experiencia profesional principal es como 'Coordinadora de profesores' en Educación Superior, lo que implica habilidades de organización, planificación y colaboración, pero no demuestra experiencia directa y sostenida como maestro en un entorno de aula típico.",
+      "La experiencia como profesora invitada o de estadística es limitada en duración y contexto (Educación Superior), no cumpliendo claramente el requisito de 'Experiencia demostrable como maestro' en el sentido tradicional.",
+      "El requisito específico de 'Grado en Magisterio o en temas especializados, con certificado en educación' no se cumple explícitamente; el 'Profesorado' está incompleto y las especializaciones, aunque relevantes, no se presentan como el certificado de educación requerido.",
+      "No se menciona conocimiento o certificación en RCP, lo cual es un requisito específico del puesto."
+    ]
+  },
+  {
+    "participant_id": "64704447-f271-4e7d-9461-5dcc34d1e4b7",
+    "score": 0,
+    "reasons": [
+      "El archivo del currículum está marcado como ilegible o corrupto, lo que impide cualquier tipo de evaluación de su contenido."
+    ]
+  },
+  {
     "participant_id": "c61a2e66-1ff8-4db7-a834-6b2838ca58f2",
     "score": 0,
     "reasons": [
@@ -378,6 +396,27 @@
     "reasons": [
       "El archivo del currículum está ilegible o corrupto y no permite su evaluación.",
       "No se puede verificar la adecuación del candidato a los requisitos del puesto debido a la inaccesibilidad del contenido."
+    ]
+  },
+  {
+    "participant_id": "55a52239-1297-41db-8377-746c84ff0802",
+    "score": 0,
+    "reasons": [
+      "El currículum para participant_1 está vacío o ilegible, impidiendo cualquier evaluación de su adecuación a la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "e3b16981-f258-419f-918d-b1b9eaaedd26",
+    "score": 0,
+    "reasons": [
+      "El currículum para participant_2 está vacío o ilegible, impidiendo cualquier evaluación de su adecuación a la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "f6833ee9-3ddf-4bba-aeaa-ba1a9ceba7dc",
+    "score": 0,
+    "reasons": [
+      "El contenido del currículum para este participante está vacío o no fue proporcionado, impidiendo cualquier evaluación."
     ]
   },
   {

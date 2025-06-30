@@ -1,14 +1,132 @@
 [
   {
-    "participant_id": "e570713f-e2c9-4dac-94d7-39866265b379",
+    "participant_id": "c51d93f6-3421-4668-bbcc-5f3aa09b6bb2",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni tecnologías DevOps.",
+      "No se evidencia conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Su experiencia laboral está orientada a gestión de proyectos, marketing digital y diseño, no a desarrollo de software.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos del puesto."
+    ]
+  },
+  {
+    "participant_id": "558abc71-4003-47d8-99c0-0fc190273620",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni en tecnologías DevOps.",
+      "No se evidencia conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "Su experiencia laboral está orientada a gestión de proyectos, marketing digital y diseño, no a desarrollo de software.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos específicos del puesto."
+    ]
+  },
+  {
+    "participant_id": "10229e20-e5c4-424e-9aee-bc1abd8c2244",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni tecnologías DevOps.",
+      "No tiene experiencia ni conocimientos en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Su experiencia laboral está orientada a gestión de proyectos, marketing digital y diseño, no al desarrollo de software.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos del puesto.",
+      "No pertenece a la industria de desarrollo de software."
+    ]
+  },
+  {
+    "participant_id": "95a50847-3b22-4934-8992-3edcd667627e",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni tecnologías DevOps.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "Su experiencia laboral está orientada a gestión de proyectos y marketing digital, no a desarrollo de software.",
+      "No cumple con el requisito técnico ni con la industria requerida."
+    ]
+  },
+  {
+    "participant_id": "86ad882d-00d7-4142-b5ad-a96637e24507",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni en tecnologías DevOps.",
+      "No tiene experiencia ni conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Su experiencia laboral está orientada a gestión de proyectos y marketing digital, no a desarrollo de software.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos del puesto.",
+      "No pertenece a la industria tecnológica ni de desarrollo de software."
+    ]
+  },
+  {
+    "participant_id": "e6deb1f4-caa7-4378-912d-9a7fabef704b",
     "score": 0,
     "reasons": [
       "El candidato no tiene experiencia en desarrollo web con .NET Framework ni en VB.NET, ASP.NET o SQL Server.",
-      "No se menciona experiencia en creaci\u00f3n de API REST ni en manejo de bases de datos SQL Server.",
-      "No se evidencia conocimiento en Git, Jira, AWS o tecnolog\u00edas DevOps.",
-      "No hay experiencia ni conocimiento en facturaci\u00f3n, procesamiento de pagos o software de contabilidad financiera.",
-      "El perfil es de Project Manager y Community Manager, enfocado en marketing digital y dise\u00f1o, no en desarrollo de software.",
-      "Aunque tiene ingl\u00e9s avanzado, no cumple con los requisitos t\u00e9cnicos espec\u00edficos del puesto."
+      "No se menciona experiencia en creación de API REST ni en manejo de bases de datos SQL Server.",
+      "No se evidencia conocimiento en Git, Jira, ni en servicios AWS.",
+      "No hay experiencia en armado de planes de prueba ni en tecnologías DevOps.",
+      "El perfil es de Project Manager y Community Manager, no de desarrollador Full Stack .NET.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos específicos del puesto."
+    ]
+  },
+  {
+    "participant_id": "097ddeb0-713b-4029-a120-00be45820932",
+    "score": 0,
+    "reasons": [
+      "El candidato no tiene experiencia en desarrollo web con .NET Framework ni en tecnologías relacionadas (VB.NET, ASP.NET, SQL Server).",
+      "No se menciona experiencia en creación de API REST ni en manejo de bases de datos SQL Server.",
+      "No se evidencia conocimiento ni experiencia en Git, Jira, AWS o tecnologías DevOps.",
+      "No hay indicios de experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El perfil es de Project Manager y Community Manager, no de desarrollador Full Stack .NET.",
+      "No se menciona nivel de inglés avanzado relacionado con el ámbito técnico requerido."
+    ]
+  },
+  {
+    "participant_id": "e763e55f-2300-4299-8426-fe34a2a9c957",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni tecnologías DevOps.",
+      "No tiene experiencia ni conocimientos en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Su experiencia laboral está orientada a gestión de proyectos, marketing digital, diseño y community management, no a desarrollo de software.",
+      "No cumple con los requisitos técnicos ni la industria requerida para el puesto."
+    ]
+  },
+  {
+    "participant_id": "8f366b99-483c-4d7a-92ce-1c98a814686c",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework ni en VB.NET, ASP.NET o SQL Server.",
+      "No posee experiencia en creación de API REST.",
+      "No muestra conocimientos en Git, Jira, ni servicios AWS.",
+      "No tiene experiencia en armado de planes de prueba ni en tecnologías DevOps.",
+      "No se evidencia conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Su perfil es de Project Manager y Community Manager, enfocado en marketing digital y diseño, no en desarrollo de software.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos del puesto."
+    ]
+  },
+  {
+    "participant_id": "2eaf2a67-db49-4973-9094-3363d88a0b28",
+    "score": 0,
+    "reasons": [
+      "El candidato no tiene experiencia en desarrollo web con .NET Framework ni en VB.NET, ASP.NET o SQL Server.",
+      "No se menciona experiencia en creación de API REST ni en manejo de bases de datos SQL Server.",
+      "No se indica conocimiento o experiencia en Git, Jira, AWS o tecnologías DevOps.",
+      "No hay evidencia de conocimientos en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El perfil es de Project Manager con experiencia en marketing digital y diseño, no en desarrollo de software.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos específicos del puesto."
     ]
   }
 ]

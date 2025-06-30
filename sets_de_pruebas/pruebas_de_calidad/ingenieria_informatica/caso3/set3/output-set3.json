@@ -1,17 +1,154 @@
 [
   {
-    "participant_id": "6e5aac4a-52f5-4367-9084-0e203143ef90",
+    "participant_id": "574a38fb-2024-45fd-a901-b9a775f64e32",
+    "score": 35,
+    "reasons": [
+      "No cumple con el requisito de más de 5 años de experiencia en desarrollo web con .NET Framework (VB.NET, ASP.NET) ni en creación de API REST.",
+      "No tiene experiencia ni conocimiento demostrado en SQL Server, solo menciona SQL en general.",
+      "No menciona experiencia con Jira ni con servicios AWS (EC2, ALB, S3).",
+      "No se evidencia conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No se menciona experiencia o conocimiento en tecnologías DevOps específicas.",
+      "Inglés avanzado, cumple con el requisito de idioma.",
+      "Carrera en curso en Ingeniería en Software, cumple con el requisito académico.",
+      "Tiene experiencia en proyectos académicos y personales con varios lenguajes de programación (Java, JavaScript, Python), uso de Git y GitHub, y bases de datos SQL.",
+      "Demuestra capacidad de aprendizaje, comunicación escrita clara y motivación para trabajar en equipo.",
+      "Edad probable dentro del rango preferido (estudiante universitario reciente)."
+    ]
+  },
+  {
+    "participant_id": "3c931563-a665-4608-bbca-e404e10500d3",
+    "score": 25,
+    "reasons": [
+      "No cumple con la experiencia requerida: no tiene más de 5 años en desarrollo web con .NET Framework ni experiencia en VB.NET, ASP.NET o SQL Server.",
+      "No tiene experiencia en creación de API REST con .NET ni en migración de aplicaciones VBA a web.",
+      "No menciona conocimientos ni experiencia con AWS ni herramientas de gestión de proyectos como Jira.",
+      "Inglés avanzado, pero no es excluyente para el puesto senior requerido.",
+      "Tiene conocimientos técnicos en lenguajes de programación (Java, JavaScript, Python) y Git, lo cual es valorable para un perfil junior, pero no para el puesto senior solicitado.",
+      "Está cursando la carrera de Ingeniería en Software, lo que cumple con el requisito académico para un perfil junior, pero no para el puesto senior.",
+      "Muestra capacidad de aprendizaje, trabajo en equipo y proyectos académicos relevantes, pero no alineados con la descripción del puesto senior."
+    ]
+  },
+  {
+    "participant_id": "90db975b-03fa-445c-8f40-95735bac3832",
     "score": 30,
     "reasons": [
-      "No cumple con la experiencia requerida de m\u00e1s de 5 a\u00f1os en desarrollo web con .NET Framework ni experiencia en VB.NET, ASP.NET o SQL Server.",
-      "No tiene experiencia en creaci\u00f3n de API REST con .NET ni en migraci\u00f3n de aplicaciones VBA a web.",
-      "No menciona conocimiento ni manejo de AWS ni herramientas de gesti\u00f3n de proyectos como Jira.",
-      "Ingl\u00e9s avanzado, pero no espec\u00edficamente t\u00e9cnico para lectura de documentaci\u00f3n ni nivel excluyente requerido.",
-      "Carrera en curso en Ingenier\u00eda en Software, lo cual es positivo para un perfil junior.",
-      "Conocimiento b\u00e1sico en varios lenguajes de programaci\u00f3n (Java, JavaScript, Python) y uso de Git/GitHub, lo cual es valorable.",
-      "Experiencia en proyectos acad\u00e9micos y personales relacionados con desarrollo de software.",
-      "No se evidencia conocimiento en facturaci\u00f3n, procesamiento de pagos, software contable ni tecnolog\u00edas DevOps espec\u00edficas.",
-      "Perfil con potencial t\u00e9cnico y capacidad de aprendizaje, pero no adecuado para el puesto senior solicitado."
+      "No cumple con la experiencia requerida de más de 5 años en desarrollo web con .NET Framework ni en creación de API REST.",
+      "No tiene dominio de bases de datos SQL Server, solo menciona SQL genérico.",
+      "No menciona experiencia con herramientas de gestión de proyectos como Jira.",
+      "No indica manejo de servicios AWS ni tecnologías DevOps.",
+      "Inglés avanzado es un requisito excluyente, el candidato indica inglés avanzado pero no específicamente técnico ni para documentación.",
+      "Carrera en curso en Ingeniería en Software, lo cual es positivo y cumple con requisito de carrera en curso o finalizada.",
+      "Conocimiento en varios lenguajes de programación (Java, JavaScript, Python) y uso de Git y GitHub, lo cual es valorado.",
+      "Experiencia en proyectos académicos y personales, mostrando potencial técnico y capacidad de aprendizaje.",
+      "No se menciona experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "Edad no especificada, pero probable dentro del rango preferido por ser estudiante reciente."
+    ]
+  },
+  {
+    "participant_id": "ba80f2ca-479c-42a4-a87a-a3bcd7744b06",
+    "score": 20,
+    "reasons": [
+      "No cumple con el requisito de más de 5 años de experiencia en desarrollo web con .NET Framework (VB.NET, ASP.NET) ni con SQL Server.",
+      "No tiene experiencia en creación de API REST con .NET ni en migración de aplicaciones VBA a web.",
+      "No menciona experiencia con AWS ni con tecnologías DevOps.",
+      "Inglés avanzado, pero no es excluyente para el puesto (se requiere inglés avanzado para el puesto, él tiene inglés avanzado).",
+      "Conocimiento básico y experiencia en lenguajes de programación (Java, JavaScript, Python) y uso de Git y GitHub, lo cual es valorado para un perfil junior.",
+      "Está cursando la carrera de Ingeniería en Software, lo que cumple con el requisito académico para un perfil junior.",
+      "Tiene experiencia en proyectos académicos y personales, uso de GitHub Issues y herramientas de desarrollo modernas, lo que indica potencial técnico.",
+      "No cumple con la experiencia laboral formal requerida para el puesto de Desarrollador Full Stack .NET Senior, pero tiene potencial para un perfil junior."
+    ]
+  },
+  {
+    "participant_id": "9be04652-bcd5-4819-b004-9b97c444f4a4",
+    "score": 30,
+    "reasons": [
+      "El candidato está cursando la carrera de Ingeniería en Software, lo cual cumple con el requisito académico.",
+      "Posee inglés avanzado, superando el requisito mínimo de inglés técnico básico/intermedio.",
+      "Tiene experiencia en proyectos académicos y personales, mostrando motivación y capacidad de aprendizaje.",
+      "Conoce varios lenguajes de programación (Java, JavaScript, Python), Git y bases de datos SQL, cumpliendo con los requisitos técnicos básicos para un perfil junior.",
+      "No tiene experiencia ni conocimientos en .NET Framework, VB.NET, ASP.NET, SQL Server, ni en creación de API REST con estas tecnologías, que son requisitos excluyentes para el puesto.",
+      "No menciona experiencia con AWS ni herramientas de gestión de proyectos como Jira.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se evidencia conocimiento en tecnologías DevOps ni armado de planes de prueba.",
+      "El perfil es claramente junior y no cumple con la experiencia técnica requerida para el puesto de Desarrollador Full Stack .NET senior."
+    ]
+  },
+  {
+    "participant_id": "6e5122e0-cfb7-40c3-a91e-86df40f32e78",
+    "score": 30,
+    "reasons": [
+      "No cumple con la experiencia requerida de más de 5 años en desarrollo web con .NET Framework (VB.NET, ASP.NET) ni más de 2 años en creación de API REST.",
+      "No se menciona experiencia ni conocimiento en SQL Server, que es un requisito clave.",
+      "No se indica experiencia con Jira ni con servicios AWS (EC2, ALB, S3).",
+      "El nivel de inglés es avanzado, pero no específicamente avanzado técnico, aunque es un punto positivo.",
+      "Tiene conocimientos en Git y experiencia con proyectos académicos y personales, lo cual es valorable para un perfil junior.",
+      "Conocimiento en varios lenguajes de programación (Java, JavaScript, Python) y uso de Git, Docker, lo que muestra capacidad técnica y aprendizaje.",
+      "Está cursando la carrera de Ingeniería en Software, lo que cumple con el requisito académico.",
+      "No se menciona experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No hay evidencia de manejo de tecnologías DevOps específicas, aunque usa Docker y despliegue en Azure.",
+      "El perfil es adecuado para un puesto junior, pero no para el puesto senior y específico descrito."
+    ]
+  },
+  {
+    "participant_id": "23f3ab87-576a-4946-8baa-c4447ae072de",
+    "score": 30,
+    "reasons": [
+      "No cumple con la experiencia requerida de más de 5 años en desarrollo web con .NET Framework y VB.NET.",
+      "No tiene experiencia en creación de API REST con .NET ni en migración de aplicaciones VBA a web.",
+      "No menciona conocimiento ni experiencia con SQL Server, solo indica SQL genérico.",
+      "No evidencia manejo de herramientas de gestión de proyectos como Jira.",
+      "No menciona experiencia con servicios AWS (EC2, ALB, S3, etc.).",
+      "Inglés avanzado, pero no es excluyente para el puesto senior requerido.",
+      "Carrera en curso en Ingeniería en Software, lo cual es positivo para un perfil junior.",
+      "Conocimiento básico en varios lenguajes de programación (Java, JavaScript, Python), Git y bases de datos, lo que cumple con requisitos adicionales para un perfil junior.",
+      "Experiencia en proyectos académicos y personales relevantes, demostrando capacidad técnica y aprendizaje.",
+      "Falta experiencia formal y específica en tecnologías .NET y entorno requerido para el puesto senior."
+    ]
+  },
+  {
+    "participant_id": "0ff4a6d0-29e8-412e-8937-a37586f8f017",
+    "score": 30,
+    "reasons": [
+      "No cumple con el requisito de experiencia mínima de 5 años en desarrollo web con .NET Framework.",
+      "No tiene experiencia en creación de API REST con .NET ni en migración de aplicaciones VBA a web.",
+      "No se menciona conocimiento o experiencia con SQL Server, solo SQL genérico.",
+      "No se menciona experiencia con Jira ni con servicios AWS como EC2, ALB o S3.",
+      "Inglés avanzado, pero el puesto requiere inglés avanzado excluyente para comunicación técnica.",
+      "Carrera en curso en Ingeniería de Software, lo cual es positivo para un perfil junior.",
+      "Conocimiento en varios lenguajes de programación (Java, JavaScript, Python) y uso de Git y GitHub, lo que es valorable para un perfil junior.",
+      "Experiencia en proyectos académicos y uso de herramientas modernas como Docker y Azure, aunque no alineadas con el stack requerido.",
+      "Buenas habilidades de aprendizaje y comunicación escrita, pero falta experiencia y conocimientos específicos del puesto."
+    ]
+  },
+  {
+    "participant_id": "7ba25f63-b1c4-41b8-ac6d-88e7c73e9ea8",
+    "score": 30,
+    "reasons": [
+      "No cumple con la experiencia requerida: no tiene más de 5 años en desarrollo web con .NET Framework ni experiencia en VB.NET, ASP.NET o SQL Server.",
+      "No tiene experiencia en creación de API REST con .NET ni en migración de aplicaciones VBA.",
+      "No menciona conocimientos o experiencia con AWS ni herramientas de gestión de proyectos como Jira.",
+      "Inglés avanzado, pero el puesto requiere inglés avanzado excluyente y él tiene nivel avanzado (aunque no se especifica si es técnico).",
+      "Tiene carrera en curso en Ingeniería en Software, lo cual es positivo.",
+      "Posee conocimientos en Git y GitHub, y experiencia en proyectos académicos y personales con varios lenguajes de programación (Java, JavaScript, Python).",
+      "No se menciona experiencia ni conocimiento en facturación, procesamiento de pagos o software contable.",
+      "Demuestra capacidad de aprendizaje, comunicación y trabajo en equipo a través de su rol de asistente de cátedra y proyectos grupales.",
+      "Edad probable dentro del rango preferido (estudiante universitario)."
+    ]
+  },
+  {
+    "participant_id": "b1a22c66-e0c4-4a91-ab5a-e886992389d2",
+    "score": 25,
+    "reasons": [
+      "No cumple con la experiencia requerida de más de 5 años en desarrollo web con .NET Framework ni con más de 2 años en creación de API REST.",
+      "No tiene experiencia con VB.NET, formularios web ASP.NET ni SQL Server, que son tecnologías clave para el puesto.",
+      "No menciona experiencia con AWS ni herramientas de gestión de proyectos como Jira.",
+      "Inglés avanzado, pero el puesto requiere inglés avanzado excluyente y el candidato tiene nivel avanzado, no especificado como avanzado excluyente.",
+      "Carrera en curso en Ingeniería en Software, lo cual es positivo para un perfil junior pero insuficiente para el puesto senior requerido.",
+      "Conocimiento en Git y proyectos personales/academicos relacionados, lo cual es valorable pero no suficiente para el puesto.",
+      "No se menciona experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se menciona conocimiento en tecnologías DevOps, solo uso básico de Docker y Azure en proyectos académicos.",
+      "Habilidades personales y técnicas adecuadas para un perfil junior, pero no para un desarrollador full stack .NET senior con experiencia específica.",
+      "Edad y potencial técnico adecuados para un perfil junior, pero el puesto requiere experiencia y conocimientos específicos no presentes."
     ]
   }
 ]

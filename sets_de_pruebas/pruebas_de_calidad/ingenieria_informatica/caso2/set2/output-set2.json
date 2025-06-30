@@ -1,13 +1,110 @@
 [
   {
-    "participant_id": "00d64266-65ae-4614-bfad-51f4871288e1",
+    "participant_id": "fc775435-88fb-440f-ba18-71911e94554d",
     "score": 0,
     "reasons": [
-      "El candidato es Dise\u00f1adora Gr\u00e1fica, no tiene experiencia en desarrollo web ni en .NET Framework.",
-      "No se menciona experiencia en creaci\u00f3n de API REST ni en bases de datos SQL Server.",
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS, DevOps o facturación y procesamiento de pagos.",
+      "No cumple con los requisitos técnicos ni con la industria requerida para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3adc2acb-2857-4b66-b9e6-0bd3e98045fc",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS, DevOps ni armado de planes de prueba.",
+      "No se indica nivel de inglés avanzado en un contexto técnico ni experiencia en facturación o software contable.",
+      "El perfil no pertenece a la industria tecnológica ni al rol de desarrollador Full Stack .NET requerido."
+    ]
+  },
+  {
+    "participant_id": "8522e7ab-1da2-4534-b100-fd44817f41d6",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
+      "No hay evidencia de conocimientos en Git, Jira, AWS, DevOps o facturación y procesamiento de pagos.",
+      "No cumple con los requisitos técnicos ni con la industria requerida para el puesto de Desarrollador/a Full Stack .NET."
+    ]
+  },
+  {
+    "participant_id": "87de4d3b-9560-4a9e-8b38-47e3e069e150",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST, bases de datos SQL Server, Git, Jira o AWS.",
+      "No hay evidencia de conocimientos técnicos en tecnologías DevOps ni en facturación o software de contabilidad financiera.",
+      "El perfil no cumple con los requisitos técnicos ni de industria especificados en la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "17608fa8-d77f-48d5-9559-200ed9c64963",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no desarrolladora de software.",
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST ni en tecnologías DevOps.",
+      "No menciona conocimientos en Git, Jira, AWS ni bases de datos SQL Server.",
+      "No tiene experiencia ni conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No cumple con los requisitos técnicos ni de industria especificados en la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "c2d13067-3a58-4f4d-bd06-0681e2923e83",
+    "score": 0,
+    "reasons": [
+      "No tiene experiencia en desarrollo web con .NET Framework ni en VB.NET, ASP.NET o SQL Server.",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona conocimientos en Git, Jira, AWS o tecnologías DevOps.",
+      "No tiene experiencia en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "Su perfil es de diseñadora gráfica, no de desarrolladora full stack .NET.",
+      "No cumple con los requisitos técnicos ni de industria especificados en la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "694c063d-83ed-4d9f-b695-d3684a555c95",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST ni en bases de datos SQL Server.",
       "No hay evidencia de conocimientos en Git, Jira, AWS, DevOps o armado de planes de prueba.",
-      "No cumple con los requisitos t\u00e9cnicos ni con la industria requerida para el puesto.",
-      "Aunque tiene ingl\u00e9s avanzado, no es suficiente para el puesto sin la experiencia t\u00e9cnica necesaria."
+      "No cumple con los requisitos técnicos ni con la industria requerida para el puesto de Desarrollador/a Full Stack .NET."
+    ]
+  },
+  {
+    "participant_id": "d1543be6-7bda-4a6b-8c39-8d4ff791f345",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no desarrolladora .NET.",
+      "No tiene experiencia en desarrollo web con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No posee experiencia en creación de API REST ni manejo de bases de datos SQL Server.",
+      "No menciona conocimientos en Git, Jira, AWS, DevOps ni armado de planes de prueba.",
+      "No cumple con el requisito técnico fundamental para el puesto.",
+      "Aunque tiene inglés avanzado, no es suficiente para el puesto sin la experiencia técnica requerida."
+    ]
+  },
+  {
+    "participant_id": "d13abeb4-55bc-4681-860f-369370b66c4d",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia técnica en VB.NET, ASP.NET, SQL Server, creación de API REST, Git, Jira, AWS, DevOps ni armado de planes de prueba.",
+      "No hay evidencia de conocimientos en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "El perfil no corresponde a la industria tecnológica ni al puesto de Desarrollador/a Full Stack .NET."
+    ]
+  },
+  {
+    "participant_id": "a814d558-36b5-4564-8416-f1c7932964f3",
+    "score": 0,
+    "reasons": [
+      "El candidato es Diseñadora Gráfica, no tiene experiencia en desarrollo web ni en .NET Framework.",
+      "No se menciona experiencia en creación de API REST, bases de datos SQL Server, Git, Jira o AWS.",
+      "No se evidencia conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se menciona experiencia en tecnologías DevOps ni armado de planes de prueba.",
+      "No cumple con los requisitos técnicos ni de industria solicitados para el puesto de Desarrollador/a Full Stack .NET."
     ]
   }
 ]

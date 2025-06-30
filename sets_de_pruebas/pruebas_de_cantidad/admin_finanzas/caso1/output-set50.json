@@ -496,5 +496,63 @@
       "No se menciona experiencia en la industria financiera.",
       "Perfil no alineado con los requisitos del puesto."
     ]
+  },
+  {
+    "participant_id": "52d11782-0d1e-4b0d-a37f-32969a06758a",
+    "score": 35,
+    "reasons": [
+      "Formaci\u00f3n en Contador P\u00fablico, pero a\u00fan estudiante.",
+      "Experiencia laboral limitada a tareas administrativas y contables b\u00e1sicas, sin evidencia de an\u00e1lisis financiero avanzado o liderazgo.",
+      "No se menciona experiencia en modelado financiero, planificaci\u00f3n o supervisi\u00f3n de equipos.",
+      "Experiencia en manejo de SAP y Excel avanzado, pero en roles administrativos y contables.",
+      "No se evidencia experiencia en la industria financiera o en roles de analista senior."
+    ]
+},
+  {
+    "participant_id": "73a6a85c-0323-4b68-a907-4f7e38592f8a",
+    "score": 50,
+    "reasons": [
+      "Experiencia como Analista de Finanzas y Analista de Cuentas a Cobrar en empresas industriales.",
+      "Uso de SAP ERP y herramientas de Microsoft Office, alineado con requisitos t\u00e9cnicos.",
+      "Formaci\u00f3n t\u00e9cnica universitaria en administraci\u00f3n en curso.",
+      "Experiencia en an\u00e1lisis y conciliaci\u00f3n de cuentas, control de documentaci\u00f3n y reportes mensuales.",
+      "No se evidencia experiencia en liderazgo ni en modelado financiero avanzado.",
+      "Experiencia en an\u00e1lisis financiero pero en \u00e1reas espec\u00edficas, no en roles senior con supervisi\u00f3n."
+    ]
+  },
+  {
+    "participant_id": "048f6d3c-11be-4a86-85f2-fec5cee2200a",
+    "score": 75,
+    "reasons": [
+      "Licenciado en Econom\u00eda con Maestr\u00eda en Finanzas en curso, formaci\u00f3n alineada al puesto.",
+      "Experiencia en an\u00e1lisis financiero detallado, modelado financiero y reportes en JP Morgan & Chase, empresa financiera reconocida.",
+      "Participaci\u00f3n en proyectos de an\u00e1lisis de inversiones, cumplimiento regulatorio y reportes financieros.",
+      "Uso de herramientas avanzadas como Tableau, Excel, Python, Stata, y sistemas BI.",
+      "Experiencia en roles que implican an\u00e1lisis cuantitativo y estrat\u00e9gico, alineado con responsabilidades del puesto.",
+      "No se menciona expl\u00edcitamente supervisi\u00f3n de equipos, pero s\u00ed trabajo en management y colaboraci\u00f3n multifuncional."
+    ]
+  },
+  {
+    "participant_id": "1f7ac6d5-e2a6-4d13-a397-52f280772fe7",
+    "score": 30,
+    "reasons": [
+      "Experiencia administrativa en sectores de educaci\u00f3n y salud, no en finanzas.",
+      "No se evidencia experiencia en an\u00e1lisis financiero, modelado o planificaci\u00f3n presupuestaria.",
+      "Formaci\u00f3n en Licenciatura en Comunicaci\u00f3n Social, no en finanzas o econom\u00eda.",
+      "No se menciona experiencia en supervisi\u00f3n o liderazgo en \u00e1reas financieras.",
+      "No se evidencia experiencia en la industria financiera o en roles de analista senior."
+    ]
+  },
+  {
+    "participant_id": "02da40a5-e759-44fd-9c72-4e66441e7618",
+    "score": 85,
+    "reasons": [
+      "Amplia experiencia en an\u00e1lisis contable y financiero en empresas de seguros y auditor\u00eda.",
+      "Experiencia en supervisi\u00f3n, preparaci\u00f3n de informes financieros, control de gesti\u00f3n y coordinaci\u00f3n de equipos.",
+      "Conocimiento en elaboraci\u00f3n y presentaci\u00f3n de estados contables, an\u00e1lisis de requerimientos de capital y control de solvencia.",
+      "Experiencia en roles senior con responsabilidades de liderazgo y reportes a CFO.",
+      "Formaci\u00f3n y experiencia alineada con el perfil de analista senior en finanzas.",
+      "Experiencia en empresas del sector financiero y asegurador, relevante para la industria requerida."
+    ]
   }
 ]

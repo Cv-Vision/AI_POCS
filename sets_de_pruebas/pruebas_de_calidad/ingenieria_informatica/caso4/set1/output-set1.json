@@ -1,18 +1,159 @@
 [
   {
-    "participant_id": "de200585-d006-4906-a346-3aeb287013cf",
+    "participant_id": "9c7fcfc2-e85d-4f2d-922d-30dd7b8b901c",
     "score": 10,
     "reasons": [
-      "Es estudiante y no cuenta con experiencia laboral comprobable en desarrollo de software.",
-      "No tiene experiencia en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos t\u00e9cnicos clave del puesto.",
-      "No se menciona experiencia en creaci\u00f3n de API REST ni en manejo de bases de datos SQL Server.",
-      "No se evidencia dominio de Git ni herramientas de gesti\u00f3n de proyectos como Jira.",
+      "Es estudiante y no posee título universitario aún.",
+      "No cumple con la experiencia mínima requerida (más de 7 años para Ingeniero Senior).",
+      "No tiene experiencia específica en .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No se menciona experiencia en creación de API REST ni en tecnologías DevOps.",
+      "Aunque tiene inglés bilingüe, no se especifica nivel avanzado fluido en lectura, escritura y comunicación oral.",
+      "No se evidencia experiencia en liderazgo de equipos o proyectos complejos.",
+      "No domina ninguno de los lenguajes o tecnologías específicas requeridas para el puesto senior.",
+      "No tiene experiencia en entornos críticos ni contribuciones a comunidades open source o publicaciones técnicas.",
+      "Edad probablemente menor a 30 años (estudiante universitario)."
+    ]
+  },
+  {
+    "participant_id": "58423a32-5e06-48c3-94db-eb3c4f75d0a7",
+    "score": 10,
+    "reasons": [
+      "Es estudiante de Ingeniería en Informática, sin experiencia laboral comprobable de más de 5 años en desarrollo web con .NET Framework.",
+      "No tiene experiencia en VB.NET, formularios web ASP.NET ni SQL Server, que son requisitos técnicos clave.",
+      "No se menciona experiencia en creación de API REST ni en herramientas de gestión como Jira.",
       "Aunque tiene conocimientos en AWS, no se especifica experiencia con los servicios requeridos (EC2, ALB, S3).",
-      "No se menciona experiencia en armado de planes de prueba ni en tecnolog\u00edas DevOps.",
-      "El nivel de ingl\u00e9s es biling\u00fce, lo cual es positivo, pero no suficiente para compensar la falta de experiencia t\u00e9cnica y a\u00f1os requeridos.",
-      "No cumple con el requisito de m\u00e1s de 5 a\u00f1os de experiencia en desarrollo web con .NET ni con los requisitos adicionales para Ingeniero/a Inform\u00e1tico/a Senior.",
-      "No tiene formaci\u00f3n acad\u00e9mica finalizada, solo est\u00e1 cursando la carrera.",
-      "No se menciona experiencia en entornos cr\u00edticos ni liderazgo de equipos o proyectos."
+      "No se evidencia inglés avanzado, solo indica ser bilingüe sin especificar nivel avanzado ni fluidez en comunicación oral y escrita.",
+      "No cumple con los requisitos adicionales para Ingeniero/a Informático/a Senior, como experiencia mayor a 7 años, liderazgo, dominio de tecnologías específicas ni experiencia en entornos críticos.",
+      "No tiene formación académica completa, está en curso de estudios.",
+      "Edad probable menor a 30 años, dado que es estudiante y reciente bachiller."
+    ]
+  },
+  {
+    "participant_id": "c447542b-5095-48b7-956c-1b636e2df7cd",
+    "score": 10,
+    "reasons": [
+      "Es estudiante y no cuenta con experiencia laboral comprobable de más de 7 años en desarrollo de software.",
+      "No tiene experiencia específica en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos técnicos clave para el puesto.",
+      "No se menciona experiencia en creación de API REST ni en tecnologías DevOps.",
+      "Aunque tiene conocimientos en AWS, no se especifica experiencia con los servicios requeridos (EC2, ALB, S3).",
+      "No se evidencia liderazgo de equipos técnicos ni proyectos complejos.",
+      "No se menciona dominio de los lenguajes/técnicas específicas requeridas para el puesto senior.",
+      "No se indica nivel avanzado de inglés, solo bilingüe, sin especificar fluidez en comunicación oral y escrita.",
+      "No tiene formación académica finalizada, solo está cursando la carrera.",
+      "No se menciona experiencia en entornos críticos ni contribuciones a comunidades open source o publicaciones técnicas.",
+      "Edad probablemente menor a 30 años, dado que está estudiando y su bachillerato terminó en 2021."
+    ]
+  },
+  {
+    "participant_id": "69b8a11c-d64f-454d-9f95-87e6022593ce",
+    "score": 10,
+    "reasons": [
+      "Es estudiante de Ingeniería en Informática, sin título aún.",
+      "No cumple con la experiencia mínima requerida (más de 7 años en desarrollo de software o roles similares).",
+      "No tiene experiencia específica en .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia comprobable en creación de API REST ni en tecnologías DevOps.",
+      "No se menciona experiencia en liderazgo de equipos o proyectos complejos.",
+      "No se evidencia dominio de los lenguajes/técnologías requeridos para el puesto senior.",
+      "Su nivel de inglés es bilingüe, pero no se especifica si es avanzado en lectura, escritura y comunicación oral.",
+      "No se menciona experiencia en entornos críticos ni contribuciones a comunidades open source o publicaciones técnicas.",
+      "Edad probablemente menor a 30 años, dado que está estudiando actualmente."
+    ]
+  },
+  {
+    "participant_id": "aabf0aea-8a65-42e0-9dc3-189976e74ffe",
+    "score": 10,
+    "reasons": [
+      "No cumple con el requisito de más de 7 años de experiencia comprobable en desarrollo de software o roles similares.",
+      "No tiene experiencia específica en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son tecnologías clave para el puesto.",
+      "No se menciona experiencia en creación de API REST ni en herramientas de gestión como Jira.",
+      "Aunque tiene conocimientos en AWS, no se especifica experiencia con los servicios requeridos (EC2, ALB, S3).",
+      "No se evidencia dominio de los lenguajes/técnicas avanzadas requeridas ni experiencia en sistemas distribuidos o paradigmas funcionales/reactivos.",
+      "No se menciona experiencia liderando equipos técnicos o proyectos complejos.",
+      "No tiene formación académica completa, es estudiante y no graduado.",
+      "El nivel de inglés es bilingüe, pero no se especifica si es avanzado en lectura, escritura y comunicación oral.",
+      "No se menciona experiencia en entornos críticos ni contribuciones a comunidades open source.",
+      "Edad probablemente menor a 30 años, dado que es estudiante y reciente bachiller."
+    ]
+  },
+  {
+    "participant_id": "7ef375d8-402b-4556-9598-4ba6d9e74e1d",
+    "score": 10,
+    "reasons": [
+      "Es estudiante y no cuenta con título de grado o posgrado.",
+      "No tiene experiencia comprobable de más de 7 años en desarrollo de software o roles similares.",
+      "No posee experiencia en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos técnicos clave para el puesto.",
+      "No se menciona experiencia en creación de API REST ni en tecnologías DevOps.",
+      "El nivel de inglés es bilingüe, pero no se especifica si es avanzado en lectura, escritura y comunicación oral.",
+      "No hay evidencia de experiencia liderando equipos técnicos o proyectos complejos.",
+      "No domina ninguno de los lenguajes o tecnologías requeridas para el puesto senior (Rust, Elixir, Scala, CUDA, C++ moderno, WebAssembly).",
+      "No se menciona experiencia en sistemas distribuidos, concurrencia o arquitectura orientada a eventos.",
+      "No hay participación en comunidades open source ni publicaciones técnicas.",
+      "No tiene experiencia en entornos críticos como finanzas, salud o telecomunicaciones.",
+      "Edad probablemente menor a 30 años, dado que es estudiante y reciente bachiller."
+    ]
+  },
+  {
+    "participant_id": "88582585-28f2-47ee-9e87-face3e6d3101",
+    "score": 10,
+    "reasons": [
+      "Es estudiante y no cuenta con experiencia laboral comprobable ni más de 7 años de experiencia en desarrollo de software.",
+      "No tiene experiencia con .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos técnicos clave para el puesto.",
+      "No se menciona experiencia en creación de API REST ni en tecnologías DevOps.",
+      "Aunque tiene conocimientos en AWS y algunos lenguajes de programación, no domina los lenguajes/técnologías requeridos para el puesto senior.",
+      "No se evidencia experiencia liderando equipos técnicos o proyectos complejos.",
+      "No se menciona nivel avanzado de inglés, solo indica ser bilingüe, pero no se especifica fluidez en comunicación oral y escrita en contexto profesional.",
+      "No tiene formación académica completa, solo está cursando la carrera.",
+      "No hay experiencia en entornos críticos ni contribuciones a comunidades open source o publicaciones técnicas.",
+      "Edad probablemente menor a 30 años, dado que está estudiando y su bachillerato terminó en 2021."
+    ]
+  },
+  {
+    "participant_id": "3dfe127e-d4eb-48d7-a051-ce346bf6b865",
+    "score": 10,
+    "reasons": [
+      "Es estudiante y no cuenta con experiencia laboral comprobable de más de 7 años en desarrollo de software.",
+      "No tiene experiencia en .NET Framework, VB.NET, ASP.NET ni SQL Server, que son requisitos técnicos clave del puesto.",
+      "No se menciona experiencia en creación de API REST ni en herramientas de gestión como Jira o Git.",
+      "No se evidencia inglés avanzado fluido en lectura, escritura y comunicación oral, solo indica nivel bilingüe sin detalle.",
+      "No tiene experiencia liderando equipos técnicos o proyectos complejos.",
+      "No se menciona conocimiento en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No cumple con los requisitos adicionales de dominio de lenguajes/técnicas específicas como Rust, Scala, C++ moderno, etc.",
+      "No tiene experiencia en entornos críticos ni participación en comunidades open source o publicaciones técnicas.",
+      "Edad y formación académica no cumplen con la preferencia de ser mayor a 30 años y tener título de grado o posgrado."
+    ]
+  },
+  {
+    "participant_id": "ca7475ec-3ad9-4879-89f0-7424a6ac9302",
+    "score": 10,
+    "reasons": [
+      "Es estudiante y no cuenta con experiencia laboral comprobable de más de 7 años.",
+      "No tiene experiencia en desarrollo con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No evidencia experiencia en creación de API REST ni en migración de aplicaciones VBA a web.",
+      "No menciona dominio de Git, Jira ni experiencia con servicios AWS específicos como EC2, ALB o S3.",
+      "No cumple con el requisito de inglés avanzado, solo indica nivel bilingüe sin especificar fluidez completa.",
+      "No tiene experiencia liderando equipos técnicos ni proyectos complejos.",
+      "No posee formación académica completa, está en curso de Ingeniería en Informática.",
+      "No tiene experiencia en entornos críticos ni conocimiento en facturación, pagos o software contable.",
+      "No domina ninguno de los lenguajes/técnologías requeridas para el puesto senior.",
+      "No muestra participación en comunidades open source ni publicaciones técnicas relevantes.",
+      "Edad presumiblemente menor a 30 años."
+    ]
+  },
+  {
+    "participant_id": "277fc302-4dd4-4e43-94fe-0489d1852b84",
+    "score": 10,
+    "reasons": [
+      "Es estudiante de Ingeniería en Informática, sin experiencia laboral comprobable de más de 7 años.",
+      "No tiene experiencia en desarrollo con .NET Framework, VB.NET, ASP.NET ni SQL Server.",
+      "No se menciona experiencia en creación de API REST ni en tecnologías DevOps.",
+      "No se evidencia nivel avanzado de inglés, solo se indica bilingüe sin especificar fluidez en lectura, escritura y comunicación oral.",
+      "No hay experiencia liderando equipos técnicos o proyectos complejos.",
+      "No domina ninguno de los lenguajes o tecnologías requeridas para el puesto senior (Rust, Elixir, Scala, C++, WebAssembly, etc.).",
+      "No se menciona experiencia en sistemas distribuidos, concurrencia o arquitectura orientada a eventos.",
+      "No hay participación en comunidades open source ni publicaciones técnicas.",
+      "No tiene formación académica completa, está en curso la carrera.",
+      "No se indica experiencia en entornos críticos ni conocimiento en facturación, procesamiento de pagos o software contable.",
+      "Edad probablemente menor a 30 años, dado que está estudiando y su bachillerato terminó en 2021."
     ]
   }
 ]

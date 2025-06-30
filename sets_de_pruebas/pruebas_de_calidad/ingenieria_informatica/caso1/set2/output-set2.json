@@ -1,14 +1,127 @@
 [
   {
-    "participant_id": "0d68846f-4d92-4f36-934f-12709bc1eb48",
+    "participant_id": "1ff83ddd-85fc-459a-8479-0a18f93e080f",
     "score": 10,
     "reasons": [
-      "El candidato es un estudiante de ingenier\u00eda de software sin experiencia profesional relevante en desarrollo web con .NET Framework.",
-      "No se evidencia experiencia de m\u00e1s de 5 a\u00f1os en desarrollo con VB.NET, ASP.NET, ni en creaci\u00f3n de API REST.",
-      "No se menciona conocimiento ni manejo de AWS, Git, Jira, ni tecnolog\u00edas DevOps.",
-      "No hay experiencia demostrada en bases de datos SQL Server ni en facturaci\u00f3n o software de contabilidad financiera.",
-      "El nivel de ingl\u00e9s es avanzado, lo cual es positivo, pero no compensa la falta de experiencia t\u00e9cnica requerida.",
-      "No cumple con los requisitos t\u00e9cnicos m\u00ednimos ni con la experiencia solicitada para el puesto."
+      "El candidato es estudiante de ingeniería en software y no tiene experiencia laboral relevante en desarrollo web con .NET Framework.",
+      "No se menciona experiencia con VB.NET, formularios web ASP.NET ni creación de API REST.",
+      "No se evidencia dominio de SQL Server ni experiencia con Git, Jira o servicios AWS.",
+      "No hay indicios de conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No se menciona experiencia en tecnologías DevOps ni armado de planes de prueba.",
+      "El candidato tiene inglés avanzado, lo cual es positivo, pero no compensa la falta de experiencia técnica requerida.",
+      "El perfil está orientado a aprendizaje y desarrollo académico, no a un rol profesional con más de 5 años de experiencia."
+    ]
+  },
+  {
+    "participant_id": "ce32a1fa-0a69-4547-9193-1d946961a37e",
+    "score": 10,
+    "reasons": [
+      "El candidato es estudiante de ingeniería en software, sin experiencia laboral relevante en desarrollo web con .NET Framework.",
+      "No se evidencia experiencia de más de 5 años en desarrollo con VB.NET, ASP.NET ni SQL Server.",
+      "No tiene experiencia en creación de API REST ni manejo de servicios AWS.",
+      "No se menciona conocimiento en Git, Jira, DevOps, facturación o software de contabilidad financiera.",
+      "Inglés avanzado está presente, pero no compensa la falta de experiencia técnica y específica requerida.",
+      "No cumple con los requisitos técnicos mínimos para el puesto."
+    ]
+  },
+  {
+    "participant_id": "3626bf37-f78e-4d65-a4ba-ec08947f174f",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería en software sin experiencia profesional relevante en desarrollo web con .NET Framework.",
+      "No se menciona experiencia con VB.NET, formularios web ASP.NET ni creación de API REST.",
+      "No se evidencia dominio de SQL Server ni manejo de Git, Jira o servicios AWS.",
+      "No hay experiencia en armado de planes de prueba ni conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos mínimos del puesto.",
+      "No se menciona experiencia en tecnologías DevOps ni en migración de aplicaciones VBA.",
+      "El candidato no pertenece a la industria requerida ni tiene la experiencia mínima solicitada."
+    ]
+  },
+  {
+    "participant_id": "2a1c5ef4-8afa-4ebc-b271-28da961e41ff",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería en software sin experiencia profesional relevante en desarrollo web con .NET Framework.",
+      "No cumple con los más de 5 años de experiencia requeridos en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No se menciona experiencia en creación de API REST ni en tecnologías DevOps.",
+      "No hay evidencia de manejo de Git, Jira o servicios AWS.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Inglés avanzado está presente, pero no es suficiente para compensar la falta de experiencia técnica y en la industria."
+    ]
+  },
+  {
+    "participant_id": "0ab31c3e-1618-4467-8978-20cf75ee4cc2",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería en software sin experiencia laboral relevante en desarrollo web con .NET Framework.",
+      "No tiene experiencia demostrada en VB.NET, ASP.NET, ni en creación de API REST.",
+      "No menciona experiencia con SQL Server, Git, Jira ni servicios AWS.",
+      "No hay evidencia de manejo de tecnologías DevOps ni armado de planes de prueba.",
+      "Aunque tiene inglés avanzado, no cumple con los requisitos técnicos mínimos del puesto.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera."
+    ]
+  },
+  {
+    "participant_id": "64703c53-0024-4443-b587-cfaca00efa59",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería en software sin experiencia profesional relevante en desarrollo web con .NET Framework.",
+      "No tiene experiencia demostrada en VB.NET, formularios web ASP.NET ni en creación de API REST.",
+      "No menciona manejo de SQL Server, Git, Jira ni servicios AWS.",
+      "No evidencia conocimientos en facturación, procesamiento de pagos ni software de contabilidad financiera.",
+      "No se menciona experiencia en tecnologías DevOps ni armado de planes de prueba.",
+      "Inglés avanzado está presente, pero no compensa la falta de experiencia técnica y específica requerida.",
+      "No cumple con el requisito de más de 5 años de experiencia en desarrollo web con .NET Framework."
+    ]
+  },
+  {
+    "participant_id": "a6ffc2af-5325-4a2d-8635-b9c17cf63382",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería en software sin experiencia profesional relevante en desarrollo web con .NET Framework.",
+      "No se evidencia experiencia de más de 5 años en desarrollo con VB.NET, ASP.NET ni SQL Server.",
+      "No se menciona experiencia en creación de API REST ni en manejo de servicios AWS.",
+      "No se indica conocimiento en Git, Jira, armado de planes de prueba, DevOps ni experiencia en facturación o software contable.",
+      "El nivel de inglés es avanzado, lo cual es positivo, pero no compensa la falta de experiencia técnica requerida.",
+      "No cumple con los requisitos técnicos mínimos ni con la experiencia requerida para el puesto."
+    ]
+  },
+  {
+    "participant_id": "c00ddf6b-bb36-42bc-858c-0e2a0ba43c50",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería de software sin experiencia profesional relevante en desarrollo web con .NET Framework.",
+      "No se evidencia experiencia de más de 5 años en desarrollo con VB.NET, ASP.NET, ni en creación de API REST.",
+      "No se menciona experiencia con SQL Server, Git, Jira, ni servicios AWS.",
+      "No hay indicios de conocimiento en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "No se menciona experiencia en tecnologías DevOps ni armado de planes de prueba.",
+      "El candidato tiene inglés avanzado, lo cual es positivo, pero no compensa la falta de experiencia técnica requerida.",
+      "El perfil no pertenece a la industria correcta ni cumple con los requisitos técnicos mínimos del puesto."
+    ]
+  },
+  {
+    "participant_id": "e5dabc9b-087b-42e0-a6b7-00b347e17779",
+    "score": 10,
+    "reasons": [
+      "No cumple con la experiencia requerida de más de 5 años en desarrollo web con .NET Framework (VB.NET, ASP.NET, SQL Server).",
+      "No tiene experiencia en creación de API REST.",
+      "No menciona dominio de bases de datos SQL Server ni uso de Git o Jira.",
+      "No tiene experiencia con servicios AWS ni conocimientos en DevOps.",
+      "No menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Aunque tiene inglés avanzado y habilidades organizativas, su perfil es de estudiante sin experiencia profesional relevante para el puesto."
+    ]
+  },
+  {
+    "participant_id": "311f6486-cb5e-4265-ab41-9e7d42b9ca4e",
+    "score": 10,
+    "reasons": [
+      "El candidato es un estudiante de ingeniería en software sin experiencia laboral relevante en desarrollo web con .NET Framework.",
+      "No tiene más de 5 años de experiencia en desarrollo web con VB.NET, ASP.NET ni SQL Server.",
+      "No menciona experiencia en creación de API REST ni en manejo de bases de datos SQL Server a nivel profesional.",
+      "No se evidencia conocimiento o experiencia en Git, Jira, AWS ni tecnologías DevOps.",
+      "No se menciona experiencia en facturación, procesamiento de pagos o software de contabilidad financiera.",
+      "Inglés avanzado está presente, pero no compensa la falta de experiencia técnica requerida.",
+      "No cumple con los requisitos técnicos mínimos para el puesto, aunque muestra habilidades organizativas y ganas de aprender."
     ]
   }
 ]

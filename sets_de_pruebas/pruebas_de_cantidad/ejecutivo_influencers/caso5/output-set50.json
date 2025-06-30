@@ -472,6 +472,22 @@
     ]
   },
   {
+    "participant_id": "e98e64af-8ba9-4ef6-87af-cf7fa49cc977",
+    "score": 0,
+    "reasons": [
+      "El archivo del currículum es ilegible o corrupto, impidiendo la evaluación del contenido.",
+      "No se puede verificar el cumplimiento de ningún requisito de la descripción del puesto."
+    ]
+  },
+  {
+    "participant_id": "8a85b1c0-7f19-489d-a8cc-8bdb8ed7d642",
+    "score": 0,
+    "reasons": [
+      "El archivo del currículum es ilegible o corrupto, impidiendo la evaluación del contenido.",
+      "No se puede verificar el cumplimiento de ningún requisito de la descripción del puesto."
+    ]
+  },
+  {
     "participant_id": "42e585fb-8268-419c-9b52-7654a154097c",
     "score": 0,
     "reasons": [

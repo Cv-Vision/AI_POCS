@@ -1,43 +1,5 @@
 [
   {
-    "participant_id": "d17addbc-7c47-46ad-9f2c-141b1e9c04e4",
-    "reasons": [
-      "El candidato tiene experiencia en la industria, aunque no exclusivamente en el sector edilicio.",
-      "Cumple con algunos requisitos del puesto, especialmente en mantenimiento general, refrigeración y electricidad, pero la experiencia en sistemas trifásicos, tableros eléctricos y puesta a tierra no está explícitamente detallada.",
-      "Posee conocimientos complementarios en refrigeración y  mantenimiento general, pero le falta especificar experiencia con sistemas de CCTV, plomería o redes.  No menciona ninguna certificación AEA, IRAM o matrícula de electricista."
-    ],
-    "score": 60
-  },
-  {
-    "participant_id": "6e524e30-39a4-411c-992b-8ff03de28c01",
-    "reasons": [
-      "El candidato ha trabajado en el sector industrial y de servicios, mostrando experiencia en tareas de mantenimiento.",
-      "Cuenta con experiencia en mantenimiento general, edilicio, eléctrico y refrigeración, lo que se alinea con las responsabilidades del puesto.",
-      "Tiene experiencia en mantenimiento preventivo y correctivo, pero no hay mención explícita de mantenimiento predictivo ni del uso de herramientas específicas (multímetro, pinzas amperimétricas, cámaras térmicas).",
-      "Su formación no incluye certificación en normas AEA o IRAM, ni se menciona una matrícula de electricista habilitado.",
-      "No se observa experiencia explícita en coordinación de proveedores o trato con clientes internos."
-    ],
-    "score": 60
-  },
-  {
-    "participant_id": "dc5c39bc-273b-4224-ab65-756710146e6a",
-    "reasons": [
-      "El candidato proviene de la industria, habiendo trabajado en mantenimiento en plantas industriales y locales comerciales.",
-      "Tiene experiencia en mantenimiento general, edilicio, eléctrico y refrigeración, lo cual cubre gran parte de las responsabilidades del puesto.",
-      "Le falta experiencia explícita con instalaciones trifásicas, tableros eléctricos y sistemas de puesta a tierra. No menciona el uso de herramientas específicas de diagnóstico eléctrico, ni certificaciones AEA o IRAM. La experiencia en coordinación de proveedores o trato con clientes internos es limitada."
-    ],
-    "score": 60
-  },
-  {
-    "participant_id": "3228118a-863b-4d32-927d-35ca83b8faaf",
-    "reasons": [
-      "El candidato presenta experiencia en la industria, aunque no se especifica el tipo de instalaciones eléctricas con las que trabajó.",
-      "Tiene experiencia en mantenimiento general, edilicio, eléctrico y refrigeración, cumpliendo con parte de los requisitos del puesto y algunos extras.",
-      "Su formación es en electrónica y electricidad, pero carece de mención a conocimientos en instalaciones trifásicas, tableros eléctricos, sistemas de puesta a tierra, diagnósticos predictivos o certificaciones AEA/IRAM.  La experiencia en CCTV es un punto a favor."
-    ],
-    "score": 60
-  },
-  {
     "participant_id": "21b1fb4f-53a0-4d94-9783-e9ae7850ec84",
     "reasons": [
       "El candidato demuestra experiencia en la industria relevante (mantenimiento en plantas industriales y locales comerciales), aunque no se especifica la envergadura de las instalaciones eléctricas.",
